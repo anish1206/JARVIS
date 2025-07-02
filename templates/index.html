@@ -2,24 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>JARVIS</title>
+  <title>GeoAssist 🌌</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <style>
     body {
+      background-color: #000010;
       margin: 0;
-      padding: 0;
-      background-color: #050505;
-      overflow-x: hidden;
       font-family: 'Segoe UI', sans-serif;
       color: white;
-      text-align: center;
+      overflow-x: hidden;
     }
 
     .stars {
       position: fixed;
       top: 0; left: 0;
-      width: 100vw;
-      height: 100vh;
+      width: 100vw; height: 100vh;
       z-index: -1;
     }
 
@@ -43,58 +40,83 @@
     }
 
     h1 {
-      margin-top: 50px;
-      z-index: 1;
+      text-align: center;
+      margin-top: 40px;
     }
 
     #chat-box {
-      margin-top: 30px;
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
     }
 
-    input[type="text"] {
-      padding: 12px 20px;
+    #user-input {
+      padding: 12px;
       width: 300px;
+      font-size: 16px;
       border-radius: 8px;
       border: none;
-      font-size: 16px;
     }
 
-    button {
+    #submit-btn {
       padding: 12px 24px;
       margin-left: 10px;
+      font-size: 16px;
       background-color: #6a00ff;
       color: white;
       border: none;
       border-radius: 8px;
-      font-size: 16px;
       cursor: pointer;
     }
 
-    button:hover {
+    #submit-btn:hover {
       background-color: #8f3bff;
     }
 
-    #response {
-      margin-top: 20px;
-      font-size: 1.2em;
-      color: #00ffe1;
+    #chat-history {
+      width: 90%;
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 20px;
+      background-color: rgba(255,255,255,0.05);
+      border-radius: 12px;
+      height: 60vh;
+      overflow-y: auto;
+    }
+
+    .message {
+      margin: 10px 0;
+      padding: 10px 14px;
+      border-radius: 12px;
+      max-width: 80%;
+      word-wrap: break-word;
+    }
+
+    .user {
+      background-color: #333366;
+      align-self: flex-end;
+      margin-left: auto;
+    }
+
+    .bot {
+      background-color: #224444;
+      align-self: flex-start;
+      margin-right: auto;
     }
   </style>
 </head>
 <body>
   <div class="stars" id="stars"></div>
-
-  <h1>JARVIS</h1>
+  <h1>🌌 GeoAssist - MOSDAC Chatbot</h1>
 
   <div id="chat-box">
     <input type="text" id="user-input" placeholder="Ask about satellite data..." />
-    <button onclick="sendMessage()">Ask</button>
+    <button id="submit-btn" onclick="sendMessage()">Ask</button>
   </div>
 
-  <div id="response"></div>
+  <div id="chat-history"></div>
 
   <script>
-    // Star generator
     const stars = document.getElementById('stars');
     for (let i = 0; i < 120; i++) {
       const star = document.createElement('div');
@@ -105,13 +127,13 @@
       stars.appendChild(star);
     }
 
-    // Send chat to backend
     async function sendMessage() {
       const input = document.getElementById("user-input");
       const message = input.value;
       if (!message) return;
 
-      document.getElementById("response").innerText = "Thinking...";
+      addMessage("user", message);
+      input.value = "";
 
       const res = await fetch("/chat", {
         method: "POST",
@@ -120,8 +142,16 @@
       });
 
       const data = await res.json();
-      document.getElementById("response").innerText = data.response;
-      input.value = "";
+      addMessage("bot", data.response);
+    }
+
+    function addMessage(role, text) {
+      const chatHistory = document.getElementById("chat-history");
+      const msg = document.createElement("div");
+      msg.className = "message " + role;
+      msg.innerText = text;
+      chatHistory.appendChild(msg);
+      chatHistory.scrollTop = chatHistory.scrollHeight;
     }
   </script>
 </body>
