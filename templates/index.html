@@ -84,7 +84,7 @@
 <body>
   <div class="stars" id="stars"></div>
 
-  <h1>🌌 GeoAssist Chatbot</h1>
+  <h1>JARVIS</h1>
 
   <div id="chat-box">
     <input type="text" id="user-input" placeholder="Ask about satellite data..." />
@@ -111,7 +111,7 @@
       const message = input.value;
       if (!message) return;
 
-      document.getElementById("response").innerText = "Thinking... 🤖";
+      document.getElementById("response").innerText = "Thinking...";
 
       const res = await fetch("/chat", {
         method: "POST",
