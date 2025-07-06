@@ -1,86 +1,1282 @@
 [
   {
-    "source": "faq",
-    "text": "Meteorological & Oceanographic Satellite Data Archival Centre"
+    "source": "home",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
   },
   {
-    "source": "faq",
-    "text": "I have registered on MOSDAC . i have received an email for email verification. But when I click the link, I get error message."
+    "source": "home",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
   },
   {
-    "source": "faq",
+    "source": "home",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "home",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-catalog-satellite",
+    "text": "Acq Calendar/Version\tProduct Description\tProcessing Level\tTemporal Resolution\tStart Date\tEnd Date\tProcessing Status\tDOI Ver 3.0; Last reviewed and updated on 22 Aug, 2024"
+  },
+  {
+    "source": "calibration-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "rss-feed",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Uses RSS (Rich Site Summary) based technology for dissemination of Satellite Images and Data Products to end users on Internet Allow Users to subscribe to these feeds automatically and get notified for availability of new data sets Feed subscription is supported by Standard browsers and on RSS readers available on Mobile Apps Enhanced Features specific to Satellite Data are Planned in Customized Client, supporting automated download, analysis and visualization of data Currently SCATSAT-1 High Resolution Products are available, soon more products are planned to be added."
+  },
+  {
+    "source": "rss-feed",
+    "text": "INSAT3D-Imager Feed: https://mosdac.gov.in/3dimager.xml INSAT3D-Sounder Feed: https://mosdac.gov.in/3dsounder.xml INSAT3DR-Imager Feed: https://mosdac.gov.in/3drimager.xml INSAT3DR-Sounder Feed: https://mosdac.gov.in/3drsounder.xml \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "data-quality",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "sitemap",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node-483-122",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-catalog-insitu",
+    "text": "Ver 3.0; Last reviewed and updated on 22 Aug, 2024"
+  },
+  {
+    "source": "oceansat-3",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre EOS-06(Oceansat-3) also known as Earth Observing Satellite EOS-06(Oceansat-3),  was launched by PSLV-C54 from Satish Dhawan Space Centre, Sriharikota on 26 November 2022. EOS-06(Oceansat-3) is developed to provide a unique opportunity for simultaneously measuring the physical, biological and atmospheric parameters for the first time from three instruments, (i) 13-band advanced Ocean Colour Monitor (OCM-3), (ii) Ku-band Scatterometer (SCAT-3) and (ii) a 2-channel Sea Surface Temperature Monitor (SSTM). ARGOS is the fourth payload provided by French Space Agency (CNES) and serves as a data collection platform from various ocean based platform. EOS-06(Oceansat-3) is envisaged to provide continuity of operational services of Oceansat-1, 2 and SCATSAT-1 Mission with enhanced application potential."
+  },
+  {
+    "source": "oceansat-3",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "calibration-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "atlases",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "hyperlink-policy",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre At many places in this Portal, you shall find links to other websites/portals. This links have been placed for your convenience. MOSDAC is not responsible for the contents and reliability of the linked websites and does not necessarily endorse the views expressed in them. Mere presence of the link or its listing on this Portal should not be assumed as endorsement of any kind. We can not guarantee that these links will work all the time and we have no control over availability of linked pages."
+  },
+  {
+    "source": "hyperlink-policy",
+    "text": "Links to MOSDAC Portal by other websites We do not object to you linking directly to the information that is hosted on this Portal and no prior permission is required for the same. However, we would like you to inform us about any links provided to this Portal so that you can be informed of any changes or updations therein. Also, we do not permit our pages to be loaded into frames on your site. The pages belonging to this Portal must load into a newly opened browser window of the User."
+  },
+  {
+    "source": "hyperlink-policy",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Ocean » Oceanic Eddies Detection The oceanic eddy parameter information was prepared for 24 years (1993 – 2016) over Bay of Bengal using AVISO. Merged and gridded satellite altimeter product of sea surface height (SSH) anomaly at 7-day interval having special resolution of 0.25o has been used for present study. Mesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) from AVISO. Eddies have been identified based on closed contour approach followed by shape criteria. An automated tracking algorithm has been employed to track these eddies with different lifetime. The trajectories of eddies have been computed from their time history. Present method has been used separately for cold core and warm core eddies. There are 24 files each containing weekly eddy data information for individual year."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "The daily gridded map of Absolute Dynamic Topography data is obtained from AVISO Remove the long wavelength component of the SSH anomaly and retain the mesoscale features with the wavelength 50-500 km scale."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Identified outer most closed contour of SSH anomaly."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "The closed contours are sequentially identified, analysed and checked essential criteria."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Size and amplitude based thresholds for eddy detection were fixed after carrying out several trials."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Eddies are detected and calculated the eddy parameters."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Detected eddies are tracked individually."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Chelton, D. B., M. G. Schlax, R. M. Samelson, and R. A. de Szoeke (2007), Global observations of large oceanic eddies, Geophys. Res. Lett., 34, L15606, doi:10.1029/2007GL030812."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "We have followed Chelton et. Al. 2007 in deriving the eddy census in Bay of Bengal with minor modifications in fixing the thresholds for eddy detection specific to this region. This was achieved after performing several trial experiments with different combinations of size and amplitude values."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Accuracy assessment of the dataset has not been carried out. The number of eddies are depending upon the diameter and amplitude threshold. Only mesoscale eddies with maximum diameter of 400km are being considered."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Less reliability of SSH data near the coast with altimetry is a known problem."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "http://www.aviso.altimetry.fr/en/data/data-access/registration-form.html The typical file name is 'eddy_parameter_YYYY.nc' or ‘YYYY.gif’ where 'eddy_parameter’ signifies that this product consists of eddy parameters."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "'YYYY' corresponds to the year, ex: 2015."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "All the data files are in NetCDF 4 format and the images are in gif format."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\tScience product of eddy parameters over Bay of Bengal."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "5\tTitle\tCharacterizing Ocean Eddy activities in the Bay of Bengal using Altimeter data 6\tAbstract\tThe oceanic eddy parameter information over Bay of Bengal was prepared for 24 years (1993 – 2016) using AVISO merged and gridded satellite altimeter sea surface height (SSH) data. SSH anomaly at 7-day interval having special resolution of 0.25o has been used for present study."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "9\tAccess Rights or Restriction\tOpen Access 13\tKeywords\tAltimter, sea surface height, Oceanic eddy, Bay of Bengal, Cyclonic and anti-cyclonic 14\tDate or period\tJanuary 01 1993 to December 31 2016 weekly data 16a\tOrg. role\tMesoscale oceanic eddies have been identified and tracked in weekly merged altimeter product of Sea Surface Height (SSH) in the Bay of Bengal during the period 1993-2016."
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "16d\tVertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)\ttime(time): units = \"days since 1950-1-1 00:00:00\" : calendar = \"Gregorian\"; EddyNumber(EddyNumber): “Number of the eddy”; flag(flag): \"1 for anticyclonic and 2 for cyclonic\"; eddy_id(time, EddyNumber, flag): “eddy id number”; cent_lat(time, EddyNumber, flag): Eddy centre latitude : units = \"degree_north\"; cent_lon(time, EddyNumber, flag):Eddy centre longitude : units = \"degree_east\"; amp_ed(time, EddyNumber, flag):Amplitude of the eddy : units = \"cm\"; sca_ed(time, EddyNumber, flag):Scale of the eddy : units = \"km\"; are_ed(time, EddyNumber, flag): Area of the eddy : units = \"km^2\";"
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "17\tGeographic Extent\tLongitude: 78OE to 100O E Latitude : 5ON to 25O N 18\tGeographic name, geographic Identifier\tBay of Bengal 19\tBounding box\tLongitude : 78OE to 100O E Latitude : 5ON to 25O N Resolution : 0.25 O 20\tTemporal Extent\tBased on input AVISO data from 1993-2016 (24 years) 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download of data files in NetCDF format and images in GIF format 23\tProcessing Level\tLevel 4 (Data product derived from The weakly gridded map of Absolute Dynamic Topography data)"
+  },
+  {
+    "source": "oceanic-eddies-detection",
+    "text": "24\tReference System\tProjection: Spherical coordinates \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "node",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "node",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-logout",
+    "text": "मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "faq-page",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre I have registered on MOSDAC . i have received an email for email verification. But when I click the link, I get error message."
+  },
+  {
+    "source": "faq-page",
     "text": "I have received a 'reset password mail' But when I click the link, I get error message."
   },
   {
-    "source": "faq",
+    "source": "faq-page",
     "text": "I get error 'Invalid username or password' even though I provide correct credentials."
   },
   {
-    "source": "faq",
-    "text": "I don't have username and password of MOSDAC. Can I download data?"
+    "source": "faq-page",
+    "text": "I don't have username and password of MOSDAC. Can I download data? How can I get near real time data without data ordering? How in-situ data can be ordered/requested? How Ordered and download the satellite data ? Which duration data can be obtained from MOSDAC? How many AWS are installed in each state of India? Which duration data is available for AWS? How to get description about a data product? I am a registered user of MOSDAC. When I download L1 data I get the message \"Your account is configured to download this data with latency of 3 days. Please select date accordingly.\" How should I download data?"
   },
   {
-    "source": "faq",
-    "text": "How can I get near real time data without data ordering?"
+    "source": "faq-page",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   },
   {
-    "source": "faq",
-    "text": "How in-situ data can be ordered/requested?"
+    "source": "data-quality",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   },
   {
-    "source": "faq",
-    "text": "How Ordered and download the satellite data ?"
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Current Events Alerts Met Applications Ocean Applications CLOUD BURST NOWCAST FOR 6 HOURS OVER WESTERN HIMALAYAN REGION."
   },
   {
-    "source": "faq",
-    "text": "Which duration data can be obtained from MOSDAC?"
+    "source": "node",
+    "text": "SATELLITE BASED NOWCAST FOR HEAVY RAIN EVENTS FOR 6 HOURS."
   },
   {
-    "source": "faq",
-    "text": "How many AWS are installed in each state of India?"
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   },
   {
-    "source": "faq",
-    "text": "Which duration data is available for AWS?"
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications Ocean Applications ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS RIP CURRENT FORECAST FOR ALL-INDIA BEACHES."
   },
   {
-    "source": "faq",
-    "text": "How to get description about a data product?"
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   },
   {
-    "source": "faq",
-    "text": "I am a registered user of MOSDAC. When I download L1 data I get the message \"Your account is configured to download this data with latency of 3 days. Please select date accordingly.\" How should I download data?"
+    "source": "soil-moisture-0",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Land » Soil Moisture Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data."
   },
   {
-    "source": "satellite-series",
-    "text": "Acq Calendar/Version Product Description Processing Level Temporal Resolution Start Date End Date Processing Status DOI"
+    "source": "soil-moisture-0",
+    "text": "Following are the three major processing steps :"
   },
   {
-    "source": "satellite-series",
-    "text": "Scenewise Aerosol Optical Depth over Land L2 SCENEWISE 2024-10-01 2025-07-02 Active"
+    "source": "soil-moisture-0",
+    "text": "v. Generate SWI from Tb and gridding the data Soil Wetness Index (SWI) is derived using a time series based methodology using SMAP L-band radiometer data, normalized to the extreme values of 0 and 1, corresponding to the dry and saturated soil wetness conditions respectively."
   },
   {
-    "source": "satellite-series",
-    "text": "Coloured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1) L2 SCENEWISE 2025-05-05 2025-07-01 Active"
+    "source": "soil-moisture-0",
+    "text": "The Geotiff file names follows naming convention;"
   },
   {
-    "source": "satellite-series",
-    "text": "Inherent Optical Properties L2 SCENEWISE 2025-05-15 2025-07-01 Active"
+    "source": "soil-moisture-0",
+    "text": "Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\tSoil Wetness Map derived using SMAP L-band Radiometer data 6\tAbstract\tSoil Wetness Index (SWI) is derived using a time series based methodology using SMAP L-band radiometer data, normalized to the extreme values of 0 and 1, corresponding to the dry and saturated soil wetness conditions respectively."
   },
   {
-    "source": "satellite-series",
-    "text": "Instantaneous_Photosynthetically_Active_Radiation L2 SCENEWISE 2025-05-12 2025-07-02 Active"
+    "source": "soil-moisture-0",
+    "text": "9\tAccess Rights or Restriction\tOpen Access 10\tSpatial Resolution\t40 km (resampled at 0.125 degrees) 13\tKeywords\tSoil Wetness Index, SMAP. SWI, Soil Moisture Active Passive 16a\tOrg. role\tGeophysical parameters retrieval from satellite 18\tGeographic name, geographic Identifier\tIndian Region 19\tBounding box\tlat_min: 05N, lat_max: 24N, lon_min: 68E, lon_max: 90E 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download in Geotiff format."
   },
   {
-    "source": "satellite-series",
-    "text": "Scenewise Phytoplankton size class L2 SCENEWISE 2025-07-02 2025-07-02 Active"
+    "source": "soil-moisture-0",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   },
   {
-    "source": "satellite-series",
-    "text": "Daily Aerosol Optical Depth over Land L3 DAILY 2023-06-01 2025-07-02 Active"
+    "source": "internal-uops",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
   },
   {
-    "source": "satellite-series",
-    "text": "The Analyzed Chlorophyll products are generated by combining OCM-3 derived chlorophyll observations with coupled physical-biogeochemical model simulation of chlorophyll using particle filter based assimilation technique. The model utilized is MOM5, coupled with biogeochemical model TOPAZ. L4 DAILY 2023-07-17 2025-06-30 Active"
+    "source": "inland-water-height",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Land » Inland Water Height Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Altimeter Interim Geophysical Data Record (IGDR) Global Ionosphere Maps (GIM) produced Total Electron Content (TEC) maps Firstly the waveforms are classified based on their signature, and then these waveforms are retracked with the suitable retracker."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Dedicated inland range correction algorithms are required to account for the atmospheric delays.Detailed information about the processing can be found in (S. Chanderet. al. 2014, A .Dubey et. al. 2014)."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "S. Chander, and P Chauhan (2013). Algorithm Theoretical BasisDocument for SARAL/AltiKa data processing for geophysical parametersretrieval, scientific report no. EPSA/MPSG/PMD/2013/01."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "S Chander, D Ganguly, AK Dubey, PK Gupta, RP Singh and P Chauhan(2014).Inland water bodies monitoring using satellite altimetry overIndian region, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XL-8, 2014, ISPRS Technical Commission VIII Symposium, 09 ? 12 December 2014, Hyderabad, India."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "A K Dubey, P K Gupta, S Dutta and R P Singh (2015). Water Level Retrieval using SARAL/AltiKa Observations in the Braided Brahmaputra River, Eastern India, Marine Geodesy, DOI: 10.1080/01490419.2015.1008156 D Ganguly, S Chander, S Deasi and P Chauhan. Optimal waveform retracker for inland water bodies: A case study over Ukai Dam/Reservoir, is under review in the journal of Marine Geodesy."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "P K Gupta, A K Dubey, N Goswami, R P Singh and P Chauhan (2015): Use of SARAL/AltiKa Observations for Modeling River Flow. Marine Geodesy (accepted)."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "The water level over the inland water bodies can be retrieved using altimeter waveforms data."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "The range information is estimated based on the arrival time of the radar pulse."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "This range is then corrected for Dry tropospheric correction, wet tropospheric correction, ionospheric correction, and tidal correction, i.e. Load tide, solid earth tide."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Detailed information about the range corrections can be found in the ATBD document (S. Chander and Prakash Chauhan, 2013) of the SARAL mission."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Based on the availability of the Altimeter dataset over the study region (Data Gap, altimeter track loss, bad weather, etc.)."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Data problems due to bad weather (heavy rain) GPS Field trip for water level measurement was conducted over Ukai reservoir on 9th November 2013, 17th January 2014 and 2nd January 2015."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "Brahmaputra observed river water level data was collected for 6 locations from upstream to downstream from Inland Waterways Authority (IWAI) and Central Water Commission (CWC) along with the satellite pass synchronous field trips."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "altimeter_derived_water_height_ukai_yyyymmdd_v1 Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\tWater height estimation over inland water bodies using radar altimeters 5\tTitle\tInland Water Bodies Monitoring using Satellite Altimetry over Indian Region 6\tAbstract\tInland water bodies? heightshave been estimated using SARAl-Altika and Jason-2 data over the two test sites, i.e. Ukai reservoir and Brahmaputra River (10 sites from upstream to downstream locations within the Indian region). The results were matched with the in-situ data collected from the GPS field trips and observed data collected from IWAI and CWC. In the first phase results of these two sites are presented herewith. Such 29 inland water bodies with (49 locations) are being done in the phase manner"
+  },
+  {
+    "source": "inland-water-height",
+    "text": "8\tUpdate frequency\tNear real time after the altimeter pass over the study area (35 days repetivity) 9\tAccess Rights or Restriction\tOpen Access 12\tTopic Category\tInland water bodies monitoring 13\tKeywords\tRivers/reservoirs, Satellite altimetry, waveform retracking, geophysical range corrections, water levels 14\tDate or period\tSince launch of SARAL-Altika (February 2013) 16a\tOrg. role\tRetrieval of water level using Remote sensing techniques 16d\tVertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)\tDefault value =NaN Unitofmeasurement= meter Datum: WGS84"
+  },
+  {
+    "source": "inland-water-height",
+    "text": "17\tGeographic Extent\tUL Coordinates: 40N, 65E. UR Coordinates: 40N, 100E. LL Coordinates: 5, 65E. LR Coordinates: 5, 100E."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "18\tGeographic name, geographic Identifier\tIndian Region 19\tBounding box\tUL Coordinates: 40N, 65E. UR Coordinates: 40N, 105E. LL Coordinates: 5, 65E. LR Coordinates: 5, 105E."
+  },
+  {
+    "source": "inland-water-height",
+    "text": "20\tTemporal Extent\tHistorical time series plot of water heights over inland water body since the availability of altimeter measurement 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download in text, and PNG formats 23\tProcessing Level\tLevel 3 (Data product derived from altimeter IGDR/GDR product) \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Atmosphere » METEOSAT8 Cloud Properties NASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "Click Here to access the Science Products. Request to use MOSDAC Single Sign On user credentials to download the data."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "CDO Version : 1.9.3 , Conventions : CF 1.6 Cloud Properties Products, downloaded from LaRC, NASA https://satcorps.larc.nasa.gov/CERES_algorithms/ B. A. Wielicki, B. R. Barkstrom, B. A. Baum, T. P. Charlock, R. N. Green, D. P. Kratz, R. B. Lee, P. Minnis, G. L. Smith, T. Wong, D. F. Young, R. D. Cess, J. A. Coakley, D. A. H. Crommelynck, L. Donner, R. Kandel, M. D. King, A. J. Miller, V. Ramanathan, D. A. Randall, L. L. Stowe, R. M. Welch, \"Clouds and the Earth's Radiant Energy System (CERES): Algorithm overview\", IEEE Trans. Geosci. Remote Sens., vol. 36, no. 4, pp. 1127-1141, Jul. 1998."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "C. Kummerow, W. Barnes, T. Kozu, J. Shine, J. Simpson, \"The Tropical Rainfall Measuring Mission system (TRMM) sensor package\", J. Atmos. Ocean. Technol., vol. 15, pp. 809-827, 1998 W. L. Barnes, T. S. Pagano, V. V. Salomonson, \"Prelaunch characteristics of the moderate resolution imaging spectroradiometer (MODIS) on EOS-AM1\", IEEE Trans. Geosci. Remote Sens., vol. 36, no. 4, pp. 1088-1100, Jul. 1998 Minnis, Patrick & Sun-Mack, Szedung & F. Young, David & W. Heck, Patrick & Garber, Donald & Chen, Yan & A Spangenberg, Douglas & Arduini, Robert & Trepte, Qing & Smith Sr, William & Ayers, J & Gibson, Sharon & F. Miller, Walter & Hong, Gang & Chakrapani, Venkatesan & Takano, Yoshihide & Liou, Kuo-Nan & Xie, Yu & Yang, Ping. (2011). CERES edition-2 cloud property retrievals using TRMM VIRS and Terra and Aqua MODIS data-Part I: Algorithms. IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING. 49. 10.1109/TGRS.2011.2144601."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "Following file naming convention are followed:"
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "NetCDF File Name (NetCDFFileName):  M8SEV_DDMMMYYYY_HHMM_L2B_CP_IND_V04.0.nc Parameter Chip File Name  : NetCDFFilename_CloudParamName(4 Char).jpg SatIdSensorId_AcquisitionDateTime_ProcessingLevel_ProductName_ProductRegion_Version.nc AcquisitionDateTime (14 Char) = DDMMMYYYY_HHMM ProductName (2 Char) = CP (Cloud Properties) ProductRegion ( 3 Char) = IND (Indian Region) Version (5 Char) = V04.0 (Product Version Number) Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\t Depends on Metosat 8 products, some times some data gaps may be observed"
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "5\tTitle\tCloud Properties Products from Meteosat-8 over Indian Peninsula 6\tAbstract\tNASA LaRC is operationally generating global cloud properties products using different geostationary satellites. This Metosat-8 cloud properties products include Cloud Phase, Optical Depth, Effective Water Radius, Effective Ice Diameter, Liquid Water Path, Ice Water Path, Effective Cloud Temperature, Cloud Top Height, Effective Cloud Height, Cloud Base Height, Cloud Top Pressure, Effective Cloud Pressure, Cloud Base Pressure, Broadband Albedo, Broadband  Longwave Flux, and Cloud Thickness."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "9\tAccess Rights or Restriction\tOpen Access 13\tKeywords\tCloud Properties, Climate, cloud, cloud remote sensing, Clouds and the Earth's Radiant Energy System (CERES), 14\tDate or period\tFrom 01-May-2018 onwards 16a\tOrg. role\tSAC: Extraction of Indian region and generation of chips LaRC: Generation of Cloud Properties product 16d\tVertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)\tCloud top Properties 17\tGeographic Extent\tUL Coordinates: 38 N, 65 E. UR Coordinates: 38 S, 97.5 E."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "LL Coordinates: 5.5 N, 65 E. LR Coordinates: 5.5 S, 97.5 E 18\tGeographic name, geographic Identifier\tIndian Peninsula 19\tBounding box\tUL Coordinates: 38 N, 65 E. UR Coordinates: 38 S, 97.5 E."
+  },
+  {
+    "source": "meteosat8-cloud-properties",
+    "text": "LL Coordinates: 5.5 N, 65 E. LR Coordinates: 5.5 S, 97.5 E Number of Columns i.e. Image Width : 489 20\tTemporal Extent\tHourly Product with Given date, time in GMT 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download of data files in NetCDF format and images in jpg format 23\tProcessing Level\tLevel 2 (Data product derived from Metosat-8) 24\tReference System\tProjection: Geographic Latitude,Longitude; Datum: WGS84 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "scatsat-1",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "mosdac-feedback",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Detailed feedback can be sent to Web Information Manager/ Administrator at Contact Page How would you grade overall design of website * How would you grade the data ordering interface of website * Solve this simple math problem and enter the result. E.g. for 1+3, enter 4."
+  },
+  {
+    "source": "mosdac-feedback",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "node",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "node",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Ocean » High Resolution Sea Surface Salinity The Bay of Bengal's high-resolution sea surface salinity has been reconstructed using a Lagrangian technique leveraging satellite data. The primary input datasets utilized are sea surface salinity data from the SMAP mission and sea surface currents derived from altimetry. These datasets are obtained at a spatial resolution of 25 km. The SMAP mission has been operational since 2015, whereas altimetry-derived sea surface currents have been available since 1993. Validation of this reconstructed product was conducted against in-situ datasets obtained from thermo-salinographs. Results indicate that the reconstructed product more accurately captures front formation compared to the original SMAP salinity fields."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "Science products are available to download with a Single Sign On on MOSDAC. Click Here to access the data SMAP Sea Surface Salinity (https://podaac.jpl.nasa.gov/dataset/SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V5 ) Altimetry-derived sea surface currents (https://data.marine.copernicus.eu/product/SEALEVEL_GLO_PHY_L4_MY_008_047/ i. Remap Sea Surface Currents with a spatial resolution of 5 km."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "ii. Backward advection of particles from the final time {t} rsub {f} to the initial time {t} rsub {f} -14 , where 14 is the number of days the particles are advected using Runge-Kutta 4th order method."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "iii. The SMAP Sea Surface Salinity observed at {t} rsub {f} -14 is interpolated onto the particle positions that day."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "iv. With this, each particle has an SSS value on {t} rsub {f} day that corresponds to the observation at {t} rsub {f} -14 ."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[1] Barbara, B., Drushka, K., & Gaube, P. (2021), â€œLagrangian reconstruction to extract small-scale salinity variability from SMAP obervationsâ€, JGR Oceans, 126(3), e2020JC016477."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[2] Dencausse, G., Morrow, R., RogÃ©, M., and Fleury, S. (2014). Lateral stirring of large-scale tracer fields by altimetry. Ocean Dynamics, 64(1), 61â€“78."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[3] DesprÃ¨s, A., Reverdin, G., and d'Ovidio, F. (2011). Mechanisms and spatial variability of mesoscale frontogenesis in the northwestern subpolar gyre. Ocean Modelling, 39(1), 97â€“113."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[4] Durack, P. J., Lee, T., Vinogradova, N. T., and Stammer, D. (2016). Keeping the lights on for global ocean salinity observation. Nature Climate Change, 6(3), 228â€“231."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[5] Lehahn, Y., d'Ovidio, F., and Koren, I. (2018). A satellite-based Lagrangian view on phytoplankton dynamics. Annual Review of Marine Science, 10(1), 99â€“119."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[6] RogÃ©, M., Morrow, R. A., and Dencausse, G. (2015). Altimetric Lagrangian advection to reconstruct Pacific Ocean fine-scale surface tracer fields. Ocean Dynamics, 65(9), 1249â€“1268."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "The algorithm is called Lagrangian Reconstruction Technique. User should refer [1]."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "This algorithm is applicable only in the region with moderate to high eddy kinetic energy and where lateral advection dominates."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "High resolution sea surface salinity product generated by Lagrangian technique can have error due to tracer bias (depends on accuracy of initial conditions) and advection bias (Passive stirring can introduce bias due to mixing physics (air-sea fluxes, mixing etc.))."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "Data sets have biases as well as inaccuracy."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\tHigh resolution sea surface salinity in Bay of Bengal using Lagrangian technique."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "5\tTitle\tDynamic downscaling of Satellite Sea Surface Salinity for the Bay of Bengal 6\tAbstract\tLagrangian technique is used for generating high-resolution sea surface salinity fields in the Bay of Bengal. This is achieved through the utilization of Sea Surface Salinity (SSS) data derived from the Soil Moisture Active Passive (SMAP) satellite, in conjunction with sea surface currents obtained from altimetry. By employing forward and backward schemes for the numerical advection of SMAP SSS fields using altimeter-derived geostrophic currents, a Lagrangian reconstruction is produced, capturing smaller-scale features. The reliability of our in-house developed algorithm is assessed by comparing it with an available reconstructed product in the Gulf Stream. Additionally, a preliminary validation is conducted against insitu data obtained from a thermo-salinograph. Further, the developed algorithm was modified to select the advection time dynamically."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "9\tAccess Rights or Restriction\tOpen Access 10\tSpatial Resolution\tSpatial resolution is 10 km 12\tTopic Category\tHigh resolution sea surface salinity product (SAC-TDP) using satellite data."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "13\tKeywords\tSea surface salinity, sea surface currents, Lagrangian advection technique, high resolution 14\tDate or period\tApril 2015 - June 2023 16a\tOrg. role\tGeophysical parameters from satellite data in the Bay of Bengal region."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "16d\tVertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)\tLat_min : 0N, Lat_max : 25N, Lon_min: 78E, Lon_max: 100 E 18\tGeographic name, geographic Identifier\tBay of Bengal 19\tBounding box\tLat_min : 0N, Lat_max : 25 N, Lon_min: 78E, Lon_max: 100 E 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download of data files in netCDF format \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "opendata-inland_water_height",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "node-483-120",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-weather",
+    "text": "Click on MAP to get weather forecast for a location or choose a city from side menu"
+  },
+  {
+    "source": "home",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "home",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "home",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "home",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "copyright-policy",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications Ocean Applications ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS RIP CURRENT FORECAST FOR ALL-INDIA BEACHES."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceansat-3-objectives",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Missions » OCEANSAT-3 » Objectives To ensure the data continuity of Ocean colour and wind vector data to sustain the operational applications."
+  },
+  {
+    "source": "oceansat-3-objectives",
+    "text": "To improve the applications, some additional datasets such as Sea Surface Temperature and more number of bands in Optical region for florescence and in Infrared region for atmospheric corrections are accommodated."
+  },
+  {
+    "source": "oceansat-3-objectives",
+    "text": "To develop / improve related algorithms and data products to serve in well- established application areas and to enhance the mission utility."
+  },
+  {
+    "source": "oceansat-3-objectives",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Ocean » Wave based Renewable Energy AWARE demonstrates potential renewable energy resource available from ocean waves over Indian Ocean region. The product is based on observations of the recent altimeters Jason-2 (2008-2014) and SARAL/Altika (2013-2014). It is particularly helpful in identification of ocean hotspots for extraction of ocean wave energy, that can be the next generation, environment friendly energy resource.It provides two types of products: Inter-annual monthly product from Jason-2 and SARAL/ALTIKA, Monthly climatology of ocean wave energy."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "The significant wave height (SWH) and wind speed for both the altimeters are taken from Using Significant Wave Height (SWH) and wind speed, the wave period is derived based on the data adaptive technique of \" Genetic Algorithm \" (Remya et al. 2011) Wave period hence derived is validated using buoy observations from Indian National Center for Ocean Information Services (INCOIS) Wave power is derived based on SWH and estimated wave period R. Govindan, R. Kumar, S. Basu and A. Sarkar. \" Altimeter-Derived Ocean Wave Period Using Genetic Algorithm, \" IEEE Geosci. Remote Sens. Lett.,VOL 8.NO. 2,pp. 354 - 358, March 2011"
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "A. Alvarez, A.Orfila , J.Tintore, \" DARWIN: An evolutionary program for nonlinear modeling of chaotic time series, \" Computer Physics Communications 136, pp.334- 349 2001 A. Soni, \" Application of SARAL/AltiKa in extraction of wave power over Indian Ocean Region, \" M. Tech Dissertation, Department of Computer Sciences, Ganpat University, Gujarat, March 2015 The wave power (P) is mathematically derived as P is Wave power per unit of wave-crest length (in Kilowatt/m) Hm0 is the significant wave height (in meters)"
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "ρ is the density of water (in kilogram/cubic meter) g is the acceleration due to gravity (in meters/square seconds) The products have gaps as they are based purely on track altimeters data."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "Data problems due to bad weather (heavy rain) For inter-annual monthly product from Jason-2 and SARAL/ALTIKA Example:  WE_SARL_JUL_2009 represents the wave energy from SARAL/Altika during July 2009."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "For Monthly climatology of ocean wave energy Parametername_CLIM_month_start year-end year Example:  WE_CLIM_JUL_2008-2014 represents the wave energy climatology during July 2008-2014."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage\tWave power in Kilowatt/meter from Altimeters over Indian Ocean Region 5\tTitle\tAltimeters for Wave based Renewable Energy (AWARE) 6\tAbstract\tThe wave power is computed from the altimeters (Jason-2 and SARAL/AltiKa) for a period of 2008-2014 at a monthly basis for individual years. Climatology is also prepared in this regard for the Indian Ocean Region."
+  },
+  {
+    "source": "wave-based-renewable-energy",
+    "text": "9\tAccess Rights or Restriction\tOpen Access 13\tKeywords\tWave power, non-conventional energy, wave period and Significant Wave Height 16a\tOrg. role\tEstimation of non-conventional wave energy using active microwave remote sensing instruments \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "weather-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "terms-conditions",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre This website is designed, developed and maintained by Space Applications Centre, Indian Space Research Organisation, Department of Space, Government of India."
+  },
+  {
+    "source": "terms-conditions",
+    "text": "Though all efforts have been made to ensure the accuracy and currency of the content of this website, the same should not be construed as a statement of law or used for any legal purposes."
+  },
+  {
+    "source": "terms-conditions",
+    "text": "Under no circumstances the MOSDAC will be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss or use, of data, arising out of or in connection with use of this website."
+  },
+  {
+    "source": "terms-conditions",
+    "text": "The terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the exclusive jurisdiction of the courts of India."
+  },
+  {
+    "source": "terms-conditions",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "opendata-metosat8_cloud_properties",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "scatsat-1-spacecraft",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Missions » SCATSAT-1 » SpaceCraft SCATSAT-1 is envisaged to provide continuity of operational services of OSCAT (IRS-P4) with enhanced application potential."
+  },
+  {
+    "source": "scatsat-1-spacecraft",
+    "text": "Launch site:\tSDSC (Satish Dhawan Space Centre), Sriharikota."
+  },
+  {
+    "source": "scatsat-1-spacecraft",
+    "text": "Power:\t15 Sq.m Solar panels generating 1360W, Two 24 Ah Ni-Cd Battries \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "saral-altika",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "node",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "node",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "weather-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Alerts Met Applications Ocean Applications LET'S INTERACTIVELY VISUALISE THE EARTH (LIVE) Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21"
+  },
+  {
+    "source": "node",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Data Access » Open Data » Ocean » Sea Ice Occurrence Probability The Sea Ice Occurrence Probability (SIOP36) data were prepared from 36 years (October 1978 to December 2014) NSIDC sea ice concentration (SIC) data over the Antarctic Region (Cavalieri, 1996). The SIC data were downloaded from NSIDC data site:(http://nsidc.org/data (link is external)). The SIOP36 data consist of 366 data files corresponding to 366 days with the first file representing 1st January and the last, 31st December. The file naming nomenclature follows SIOP36_MMDD_S.bin[.tif/.png] format; where MM refers to month number (01 to 12, 01 being January), DD refers to date of the month, and the character S refers to Southern Hemishphere."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Data formats are indicated by .bin (Binary), .tif (GeoTIFF), and .png (Portable Network Graphics). Data is freely available to global scientific community and can be downloaded from www.mosdac.gov.in (link is external). Probability values are calculated from the long-term NASA Team algorithm-derived SMMR-SSM/I-SSMIS sea ice concentration product (Cavalieri, 1996). The dataset is given in Polar Stereographic projection with a grid size of 25km x 25km in latitude and longitude. The grid coordinates of the upper left pixel are 39.2 deg S, 42.2 deg W. There are 316 columns and 332 rows. Data values are stored as IEEE floats representing probabilities in the range 0-100%. Pixels with zero values corresponds to either Antarctic land/ice or ocean water."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Click Here to access the Science Products . Request to use MOSDAC Single Sign On user credentials to download the data."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "The major input data is NASA Team algorithm-derived SMMR-SSM/I-SSMIS sea ice concentration data over Antarctic Region (Cavalieri, 1996) for 36 years (October 1978 to December 2014). The data was downloaded from NSIDC data site: (http://nsidc.org/data Following are the three major processing steps :"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "i. Classification of pixels into sea-ice and non-sea-ice classes."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "ii. Determination of sea-ice-pixel frequency over study period iv. Converting the data into three (.bin, .tif, and .png) formats."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "This dataset may be cited as (Rajak et al, 2015). Rajak D. Ram, R.K. Kamaljit Singh, Jayaprasad P., Sandip R. Oza, Rashmi Sharma, and Raj Kumar (2015). Sea Ice Occurrence Probability Data and Its Applications Over the Antarctic. Manuscript submitted to a journal."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Cavalieri, D. J., C. L. Parkinson, P. Gloersen, and H. Zwally. 1996, updated yearly. Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data. [October 1978 to December 2012]. Boulder, Colorado USA: NASA National Snow and Ice Data CentreDistributed Active Archive Centre."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "This dataset may be cited as (Rajak et al, 2015)."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Comiso, J. C. 2000, updated 2014. Bootstrap Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS. Version 2. [October 1978 to December 2012]. Boulder, Colorado USA: NASA DAAC at the National Snow and Ice Data Center."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Rajak D. Ram, R.K. Kamaljit Singh, Jayaprasad P., Sandip R. Oza, Rashmi Sharma, and Raj Kumar (2015). PROBABILISTIC SEA ICE OCCURRENCE DATA OVER ANTARCTIC REGION. Manuscript under preparation."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Daily Probability of occurrence of sea ice: Pr = 100 x N / (Y-n) N, is the number of times the pixel has been classified as sea ice (sea ice concentration => 15%);"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Y, is the total possible observations, and n is the number of years with data loss on that particular date."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Accuracy assessment of the dataset has not been carried out."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "The inherent problems of the major input sea ice concentration data (from NSIDC site) may be considered the problems with this dataset."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Northern Hemisphere EASE-Grid 2.0 Weekly Snow Cover and Sea Ice Extent. Version 4. Boulder, Colorado USA: NASA DAAC at the National Snow and Ice Data Center (Brodzik, M. and R. Armstrong. 2013.). [http://nsidc.org/data The file names follows SIOP36_MMDD_S.bin[.tif/.png] naming convention;"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "MM refers to month number (01 to 12, 01 being January), Data types are indicated by .bin (binary), .tif (geotiff), and .png (portable network graphics)."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "Sr. No\tCore Metadata Elements\tDefinition 4\tData Lineage or Quality\tFirst ever sea ice occurrence probability data available over the Antarctic 5\tTitle\tSea Ice Occurrence Probability Data over the Antarctic (SIOP36)."
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "6\tAbstract\tAntarctic Sea Ice Occurrence Probability (SIOP) for each day from January 1st to December 31st is generated from NSIDC sea ice concentration data (Comiso, 2000) which were downloaded from the NSIDC site: (http://nsidc.org/data ). The SIOP data for 36 years (October 1978 to December 2014) are named as SIOP36 9\tAccess Rights or Restriction\tOpen Access 13\tKeywords\tSea Ice, Probability, the Antarctic 14\tDate or period\tJanuary 01 to December 31 Sea Ice Occurrence Daily Probability calculated from October 1978 to December 2014 data"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "16a\tOrg. role\tCalculated Sea Ice Occurrence Probability (SIOP) for each day from January 1st to December 31st using NSIDC sea ice concentration data (Comiso, 2000). Further details are available in Rajak et al, 2015 16d\tVertical Extent (minimumValue, maximumValue, unitOfMeasure, vertical datum)\tProbability in percentage. Minimum value = 0.0294%. Maximum value = 100.0%. Mask: Antarctica land/ice and open ocean water (value = 0.0) 17\tGeographic Extent\tUL Coordinates: 40S, 42W. UR Coordinates: 40S, 42E. LL Coordinates: 42S, 135W. LR Coordinates: 42S, 135E"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "18\tGeographic name, geographic Identifier\tOcean surrounding Antarctica 19\tBounding box\tUL Coordinates: 40S, 42W. UR Coordinates: 40S, 42E. LL Coordinates: 42S, 135W. LR Coordinates: 42S, 135E. Number of columns i. e. image width: 316 pixels. Number of Rows i.e. Image Height: 332 pixels 20\tTemporal Extent\tBased on input NSIDC Sea Ice Concentration Data October 1978 to December 2014 21\tAccess Rights or Restrictions\tOpen Access 22\tDistribution Information\tOnline download in Binary, GeoTIFF and PNG formats. Binary and GeoTIFF data in Float format"
+  },
+  {
+    "source": "sea-ice-occurrence-probability",
+    "text": "23\tProcessing Level\tLevel 4 (Data product derived from sea ice concentration product) 24\tReference System\tProjection: Polar Stereographic (0.0 E,70.0 S,0.0 m,0.0 m). Datum: WGS84 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications Ocean Applications ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS RIP CURRENT FORECAST FOR ALL-INDIA BEACHES."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "insat-3d",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Data Reception (DR) system to generate raw data (L0) files Data Processing (DP) system to process L0 data and produce L1B data files (Calibrated and Geo located) Product generation and Dissemination system \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "help",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Know about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors."
+  },
+  {
+    "source": "help",
+    "text": "We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers."
+  },
+  {
+    "source": "help",
+    "text": "We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal."
+  },
+  {
+    "source": "help",
+    "text": "This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible."
+  },
+  {
+    "source": "help",
+    "text": "Portable Document Format (PDF) files\tAdobe Acrobat Reader Following different options are provided in the form of icons which are available on the top of each page:"
+  },
+  {
+    "source": "help",
+    "text": "Allows to increase the text size up to Two levels Allows to decrease the text size up to Two levels Changing the color scheme refers to applying a suitable background and text color that ensures clear readability. There are two options provided to change the color scheme. These are:"
+  },
+  {
+    "source": "help",
+    "text": "Provides information regarding access to different Screen Readers."
+  },
+  {
+    "source": "help",
+    "text": "Space Applications Centre fully complies with Guidelines for Indian Government Websites (link is external). Our visitors with visual impairments can access the Portal using Assistive Technologies, such as screen readers."
+  },
+  {
+    "source": "help",
+    "text": "The information of the Portal is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes."
+  },
+  {
+    "source": "help",
+    "text": "Following table lists the information about different screen readers:"
+  },
+  {
+    "source": "help",
+    "text": "Non Visual Desktop Access (NVDA)\thttp://www.nvda-project.org Hal\thttp://www.yourdolphin.co.uk/productdetail.asp?id=5 JAWS\thttp://www.freedomscientific.com/jaws-hq.asp Supernova\thttp://www.yourdolphin.co.uk/productdetail.asp?id=1 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-catalog-oceansat3",
+    "text": "Acq Calendar/Version\tProduct Description\tProcessing Level\tTemporal Resolution\tStart Date\tEnd Date\tProcessing Status\tDOI Scenewise Aerosol Optical Depth over Land\tL2\tSCENEWISE\t2024-10-01\t2025-07-02\tActive Coloured Dissolved Organic Matter (CDOM) Absorption Coefficient at 412nm (units m-1)\tL2\tSCENEWISE\t2025-05-05\t2025-07-01\tActive Inherent Optical Properties\tL2\tSCENEWISE\t2025-05-15\t2025-07-01\tActive Instantaneous_Photosynthetically_Active_Radiation\tL2\tSCENEWISE\t2025-05-12\t2025-07-02\tActive Scenewise Phytoplankton size class\tL2\tSCENEWISE\t2025-07-02\t2025-07-02\tActive"
+  },
+  {
+    "source": "internal-catalog-oceansat3",
+    "text": "Daily Aerosol Optical Depth over Land\tL3\tDAILY\t2023-06-01\t2025-07-02\tActive The Analyzed Chlorophyll products are generated by combining OCM-3 derived chlorophyll observations with coupled physical-biogeochemical model simulation of chlorophyll using particle filter based assimilation technique. The model utilized is MOM5, coupled with biogeochemical model TOPAZ.\tL4\tDAILY\t2023-07-17\t2025-07-03\tActive Ver 3.0; Last reviewed and updated on 22 Aug, 2024"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node-543-7",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "opendata-sea_ice_probability",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "calibration-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "weather-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node-1975-5",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Alerts Met Applications Ocean Applications LET'S INTERACTIVELY VISUALISE THE EARTH (LIVE) Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21"
+  },
+  {
+    "source": "node",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "insat-3ds",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre INSAT-3DS is identical to INSAT-3D in terms of Sensors and products."
+  },
+  {
+    "source": "insat-3ds",
+    "text": "Data Reception (DR) system to generate raw data (L0) files Data Processing (DP) system to process L0 data and produce L1B data files (Calibrated and Geo located) Product generation and Dissemination system \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "node",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "node",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "rss.xml",
+    "text": "<?xml version=\"1.0\" encoding=\"utf-8\" ?><rss version=\"2.0\" xml:base=\"https://www.mosdac.gov.in/rss.xml\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:og=\"http://ogp.me/ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:sioc=\"http://rdfs.org/sioc/ns#\" xmlns:sioct=\"http://rdfs.org/sioc/types#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">"
+  },
+  {
+    "source": "rss.xml",
+    "text": "<link>https://www.mosdac.gov.in/rss.xml</link> <atom:link href=\"https://www.mosdac.gov.in/rss.xml\" rel=\"self\" type=\"application/rss+xml\" /> <link>https://www.mosdac.gov.in/external/nowcast-heavyrain</link> <description> Heavy Rain Alerts in Darlawn Champhai Aizawl ..... cities of India</description> <guid isPermaLink=\"false\">Heavy Rain (Nowcast)</guid> <link>https://www.mosdac.gov.in/external/forecast-heavyrain</link> <description> Heavy Rain Alerts in Bhubaneswar Cuddapah Kurnool ..... cities of India</description>"
+  },
+  {
+    "source": "rss.xml",
+    "text": "<guid isPermaLink=\"false\">Heavy Rain (Forecast)</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "This XML file does not appear to have any style information associated with it. The document tree is shown below."
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<rss xmlns:datacasting=\"http://datacasting.jpl.nasa.gov/datacasting\" xmlns:georss=\"http://www.georss.org/georss\" xmlns:gml=\"http://www.opengis.net/gml\" version=\"2.0\"> <description>Datacasting of INSAT-3DR for IMAGER sensor</description> <datacasting:channelUID>insat3dr_imager</datacasting:channelUID> <datacasting:dataSource>MOSDAC Geophysical Products</datacasting:dataSource> <datacasting:dataOnlyInFeed>false</datacasting:dataOnlyInFeed> <managingEditor>admin <admin@mosdac.gov.in></managingEditor>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<webMaster>admin@mosdac.gov.in</webMaster> <pubDate>Wed, 24 Aug 2022 08:35:07 GMT</pubDate> <generator>Datacasting Feed Publishing Tools</generator> <docs>http://datacasting.jpl.nasa.gov/datacasting.html</docs> <url>http://mosdac.gov.in/data/img/MOSDAC_banner.png</url> <description>INSAT-3DR SOUNDER Data</description> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_ASIA_MER_IR1.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-10.000000 44.000000</gml:lowerCorner> <gml:upperCorner>45.000000 110.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_ASIA_MER_IR1.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L1C_ASIA_MER.h5</datacasting:productName> <description>IMAGER- 6 channel Level1 data in Mercator projection for Asian Sector</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_ASIA_MER_IR1.jpg</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_WVW.gif</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-48.000000 21.000000</gml:lowerCorner> <gml:upperCorner>49.000000 128.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_WVW.gif</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2P_WVW.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>Water vapour derived wind vectors</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_WVW.gif</guid> <pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CMK.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CMK.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2B_CMK.h5</datacasting:productName> <description>INSAT-3DR VHRR measures radiances in one visible and one SWIR band at 1 km spatial resolution, one MIR and two TIR bands at 4 km resolution, and one WV band at 8 km resolution. Radiances from 3 IR spectral bands TIR ?1 , TIR ?2 and MIR which are of same resolution of 4km are used in the INSAT cloud mask algorithm to estimate whether a given view of the earth surface is unobstructed by clouds</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CMK.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_CER.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-50.000000 20.000000</gml:lowerCorner> <gml:upperCorner>50.000000 130.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_CER.jpg</datacasting:preview>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:productName>3RIMG_24AUG2022_0745_L2C_CMP.h5</datacasting:productName> <description>Day-time cloud microphysical parameters from visible and SWIR channels of INSAT-3DR imager</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_CER.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_VSW.gif</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-48.000000 22.000000</gml:lowerCorner> <gml:upperCorner>31.000000 128.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_VSW.gif</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2P_VSW.h5</datacasting:productName> <description>Winds derived using Visible band data of IMAGER</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_VSW.gif</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:05:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_FIR.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-29.000000 24.000000</gml:lowerCorner> <gml:upperCorner>52.000000 118.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_FIR.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2P_FIR.kml</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>This is an Active FIRE product which shows that the pixel is warm enough to be qualified as fire. This is derived using MIR (T3) and TIR1 (T5) channel BT from INSAT-3DR imager.</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_FIR.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_INS.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-10.000000 44.000000</gml:lowerCorner> <gml:upperCorner>45.000000 110.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_INS.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2C_INS.h5</datacasting:productName> <description>INSAT-3DR derived INSOLATION</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_INS.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_SST.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_SST.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2B_SST.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>Sea surface temperature is derived from split thermal window channels (TIR1, TIR2) during daytime and using additional mid IR window channel (MIR) during night time over cloud free oceanic regions. The most important part of the SST retrieval from IR observations is the atmospheric correction, especially over tropics. This correction is determined through a suitable characterization of tropical atmospheres in radiative transfer model to simulate the brightness temperatures of INSAT-3DR channels a</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_SST.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_VSW.gif</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-48.000000 31.000000</gml:lowerCorner> <gml:upperCorner>32.000000 128.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_VSW.gif</datacasting:preview>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:productName>3RIMG_24AUG2022_0745_L2P_VSW.h5</datacasting:productName> <description>Winds derived using Visible band data of IMAGER</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_VSW.gif</guid> <pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2G_MIDSH.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-50.000000 30.000000</gml:lowerCorner> <gml:upperCorner>50.000000 130.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2G_MIDSH.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2G_WDP.h5</datacasting:productName> <description>Wind Derived Product, Upper level divergence, lower level convergence, wind shear, mid-level wind shear, 24 hour wind shear tendency, vorticity(200,500,700,850mb) using INSAT-3DR AMVs.</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2G_MIDSH.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:05:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_AOD.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-9.000000 45.000000</gml:lowerCorner> <gml:upperCorner>45.000000 100.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_AOD.jpg</datacasting:preview>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:productName>3RIMG_24AUG2022_0745_L2G_AOD.h5</datacasting:productName> <description>The AOD product provides the aerosol optical thickness, at 650 nm and 4 Km spatial resolution over both land and ocean surfaces with root mean square (RMS) error of ?0.1.</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_AOD.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_WVW.gif</link>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-48.000000 21.000000</gml:lowerCorner> <gml:upperCorner>49.000000 128.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_WVW.gif</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2P_WVW.h5</datacasting:productName> <description>Water vapour derived wind vectors</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_WVW.gif</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:05:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_OLR.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_OLR.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2B_OLR.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>Total outgoing longwave radiation (OLR) flux, thermally emitted from earth atmosphere system, is estimated by applying regression equation relating OLR flux with INSAT-3DR Imager observed WV (6.7&#956;m) and thermal infrared (TIR-1 10.5 &#956;m and TIR-2 11.5 &#956;m) radiances. The coefficients of the regression equations are determined from results of the Radiative Transfer Model simulation with various atmospheric conditions</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_OLR.jpg</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_HEM.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_HEM.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2B_HEM.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>This product is derived on the basis of Hydro-Estimator method. It measures precipitation over Indian Region encompassing area between longitudes 30?E -to130?E and latitudes 50?N- 50?S.</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_HEM.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_FOG.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-10.000000 44.000000</gml:lowerCorner> <gml:upperCorner>45.000000 110.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_FOG.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2C_FOG.h5</datacasting:productName> <description>Night time FOG is derived from TIR-1 and MIR channel brightness temperature over Indian region. However, for day time visible channel reflectance and TIR-1 channel brightness temperature has been used. The algorithm involves detection of different thresholds following an image based approach to detect FOG</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2C_FOG.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CTP.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-79.000000 -6.000000</gml:lowerCorner> <gml:upperCorner>78.000000 154.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CTP.jpg</datacasting:preview>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:productName>3RIMG_24AUG2022_0745_L2B_CTP.h5</datacasting:productName> <description>Cloud top properties derived using INSAT3R IMAGER</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_CTP.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2C_CER.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-50.000000 20.000000</gml:lowerCorner> <gml:upperCorner>50.000000 130.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2C_CER.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2C_CMP.h5</datacasting:productName> <description>Day-time cloud microphysical parameters from visible and SWIR channels of INSAT-3DR imager</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2C_CER.jpg</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:14:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1B_STD_IR1.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1B_STD_IR1.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L1B_STD.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>Level1 data for Imager 6 channels at half hour interval</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1B_STD_IR1.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_MIDSH.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-50.000000 30.000000</gml:lowerCorner>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:upperCorner>50.000000 130.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_MIDSH.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2G_WDP.h5</datacasting:productName> <description>Wind Derived Product, Upper level divergence, lower level convergence, wind shear, mid-level wind shear, 24 hour wind shear tendency, vorticity(200,500,700,850mb) using INSAT-3DR AMVs.</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2G_MIDSH.jpg</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2B_IMC.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2B_IMC.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2B_IMC.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>INSAT multispectral Rainfall Algorithm Technique (IMSRA) is one of the main operational rainfall retrieval algorithms for INSAT-3DR. This algorithm estimates precipitation based on non-linear power law relationship established between infrared (IR) brightness temperatures (Tbs, 10.7 ?m observations) and TRMM-PR surface rain rate. Based on a number of case studies and research works carried out, a further refinement of the algorithm was made.</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2B_IMC.jpg</guid>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_IRW.gif</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:15:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-48.000000 21.000000</gml:lowerCorner> <gml:upperCorner>49.000000 128.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_IRW.gif</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0715_L2P_IRW.h5</datacasting:productName>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<description>INSAT-3DR Infrared channel derived Wind</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0715_L2P_IRW.gif</guid> <pubDate>Wed, 24 Aug 2022 08:05:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_IRW.gif</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-48.000000 21.000000</gml:lowerCorner> <gml:upperCorner>49.000000 128.000000</gml:upperCorner>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_IRW.gif</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2P_IRW.h5</datacasting:productName> <description>INSAT-3DR Infrared channel derived Wind</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2P_IRW.gif</guid> <pubDate>Wed, 24 Aug 2022 08:35:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_SGP_IR1.jpg</link>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-50.000000 20.000000</gml:lowerCorner> <gml:upperCorner>50.000000 130.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_SGP_IR1.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L1C_SGP.h5</datacasting:productName> <description>Level1 IMAGER 6 channel data of TIR1, TIR2, WV, VIS, SWIR, MIR Bands in Mercator projection</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L1C_SGP_IR1.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_UTH.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate> <gml:lowerCorner>-80.000000 -6.000000</gml:lowerCorner> <gml:upperCorner>80.000000 154.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_UTH.jpg</datacasting:preview>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<datacasting:productName>3RIMG_24AUG2022_0745_L2B_UTH.h5</datacasting:productName> <description>Upper Tropospheric Humidity from IMAGER</description> <guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_UTH.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate> <link>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_LST.jpg</link> <datacasting:acquisitionStartDate>Wed, 24 Aug 2022 07:45:00 GMT</datacasting:acquisitionStartDate>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<gml:lowerCorner>-81.000000 -7.000000</gml:lowerCorner> <gml:upperCorner>81.000000 155.000000</gml:upperCorner> <datacasting:preview>http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_LST.jpg</datacasting:preview> <datacasting:productName>3RIMG_24AUG2022_0745_L2B_LST.h5</datacasting:productName> <description>Land surface temperature (LST) is a key parameter in the land surface processes. LST is very useful input to various models related to agrometeorology, ecology, hydrology and climate.</description>"
+  },
+  {
+    "source": "3drimager.xml",
+    "text": "<guid isPermaLink=\"true\">http://mosdac.gov.in/look/3R_IMG/preview/2022/24AUG/3RIMG_24AUG2022_0745_L2B_LST.jpg</guid> <pubDate>Wed, 24 Aug 2022 08:32:00 GMT</pubDate>"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Forecast Nowcast Current Events Alerts Met Applications Ocean Applications ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS RIP CURRENT FORECAST FOR ALL-INDIA BEACHES."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "tools",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre IDV Plugin for INSAT-3D | 3DR Data Products IDV Plugin for INSAT-3D | 3DR Data Products Linux & Windows - 64 bit\thttps://mosdac.gov.in/software/INSAT_IDV_PLUGIN.jar\tFormat: JAR, Size: 3.3 MB Atmospheric Correction Model for Resourcesat-2 AWiFS data (SACRS2) Atmospheric Correction Model for Resourcesat-2 AWiFS data (SACRS2) Windows 32 bit\thttps://mosdac.gov.in/software/SACRS2_Package.rar\tFormat: RAR, Size: 7.5 MB Megha Tropiques batch mode HDF5 to Binary/ASCII converter"
+  },
+  {
+    "source": "tools",
+    "text": "Megha Tropiques batch mode HDF5 to Binary/ASCII converter RHEL5 /CentOS5 32 bit\thttps://mosdac.gov.in/software/mt-hdf-bin-linux.zip\tFormat: ZIP, Size: 3.3 MB RHEL5 /CentOS5 32 bit\thttps://mosdac.gov.in/software/hdftool-linux.zip\tFormat: ZIP, Size: 9.9 MB Megha Tropiques batch mode HDF5 to Binary/ASCII converter Megha Tropiques batch mode HDF5 to Binary/ASCII converter Windows 32 bit\thttps://mosdac.gov.in/software/mt-hdf-bin-txt.zip\tFormat: ZIP, Size: 2.9 MB Windows 32 bit\thttps://mosdac.gov.in/software/HdfTool.zip\tFormat: ZIP, Size: 6.3 MB"
+  },
+  {
+    "source": "tools",
+    "text": "HDF5 TO ASCII converter for Kalpana1-VHRR PR products RHEL4 /CentOS4\thttps://mosdac.gov.in/software/PR_hdf_ascii.tar\tFormat: TAR, Size: 5.3 MB HDF5 TO ASCII converter for Kalpana1-VHRR DP products RHEL4 /CentOS4\thttps://mosdac.gov.in/software/DP_hdf_ascii.tar\tFormat: TAR, Size: 6.4 MB \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "data-access-policy",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Registered General Users\tAccess to limited\tLatency of 3 days Registered Privileged Users\tAccess to all data\tNRT Access Anonymous Users\tAccess to metadata/image and Open Data\tNRT Access Data access will be provided as per above policies (all that applies)."
+  },
+  {
+    "source": "data-access-policy",
+    "text": "Data Access Guidelines (Bilingual; Size:415KB Format:PDF Tool:PDFViewer) /(English; Size:323KB Format:PDF Tool:PDFViewer) \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceansat3-references",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Missions » OCEANSAT-3 » Documents OCM_AOD_ATBD  (Size:2.67MB Format:PDF Tool:PDFViewer) OCM_AnalysedCHL_GlobalOcean_ATBD  (Size:2.5MB Format:PDF Tool:PDFViewer) OCM_IOPS_ATBD  (Size:1.2MB Format:PDF Tool:PDFViewer) \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "data-quality",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node-483-120",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre The scientific payload contains three instruments."
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "• 2-band Sea Surface Temperature Monitor (SSTM) OCM-3 is a 13-band multi-spectral camera operating in the Visible and Near IR spectral range. It has 13 narrow (10-20 nm) spectral bands. This camera provides an instantaneous geometric field of view of 368 meter and a swath of ~ 15000 km. OCM can be tilted up to + 20 degree along track. OCM-3 is planned to be operated in two modes:"
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "1. Local Area Coverage (LAC) mode at 366 m resolution 2. Global Area Coverage (GAC) mode at 1.1 km resolution backscatter. Following are the sensor characteristics:"
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "•  Ku-band, HH/VV (Swath 1400km), VV (1400-1800km) •   High-resolution mode for ocean surface wind vectors at 12.5 km for the first time in addition to 25 km."
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "•   Experimental mode of high resolution wind @5km •   Accuracy (RMSE): Speed ~ 1.5 m/s, Direction: ~15 deg."
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "•    Noise Equivalent s0  improved by ~5dB to -39.5dB (-35dB) for H-beam, and -35dB (-31dB) for V-beam Sea Surface Temperature Monitoring (SSTM) :"
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "2-band Sea Surface Temperature Monitor (SSTM) is a new instrument on-board Oceansat-3."
+  },
+  {
+    "source": "oceansat-3-payloads",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "atlases",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceansat-3-spacecraft",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Home » Missions » OCEANSAT-3 » SpaceCraft \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "megha-tropiques",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Megha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions. Megha-Tropiques provides scientific data on the contribution of the water cycle to the tropical atmosphere, with information on condensed water in clouds, water vapour in the atmosphere, precipitation, and evaporation. With its circular orbit inclined 20 deg to the equator, the Megha-Tropiques is a unique satellite for climate research that should also aid scientists seeking to refine prediction models. The Megha-Tropiques has day, night and all-weather viewing capabilities; it passes over India almost a dozen times every day, giving scientists an almost real- time assessment of the evolution of clouds."
+  },
+  {
+    "source": "megha-tropiques",
+    "text": "\"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node-1268",
+    "text": "मौसम विज्ञान एवं समुद्र विज्ञानीय उपग्रह डेटा पुरालेखी केंद्र 3डी वॉल्यूमेट्रिक टर्ल्स डीडब्लूआर उत्पाद इस साइट पर प्रदर्शित सामग्री को बिना किसी विशिष्ट अनुमति लिए, किसी भी प्रारूप या मीडिया में निःशुल्क पुनःउत्पादित किया जा सकता है। बशर्ते सामग्री को परिशुद्धता से दर्शाया जाए और अनादरसूचक या भ्रामक रूप में प्रदर्शित ना किया जाए। जिस स्थान पर सामग्री प्रकाशित की जा रही है या दूसरों को दी जा रही है, वहाँ स्रोत का प्रमुख रूप से उल्लेख किया जाए। हालांकि, सामग्री को पुनःउत्पादित करने का अधिकार इस साइट की उस सामग्री पर लागू नहीं होता, जो तीसरी पार्टी के प्रतिलिप्यधिकार के रूप में स्पष्ट रूप से अभिनिर्धारित है या जो सामग्री हाइपरलिंक की गई साइट पर मौजूद है। इस प्रकार की सामग्री को पुनःउत्पादित करने का प्राधिकार संबंधित प्रतिलिप्याधिकारधारकों से प्राप्त किया जाना चाहिए।"
+  },
+  {
+    "source": "node-1268",
+    "text": "मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित वेबसाइट \"संस्करण 3.0; अंतिम बार 06 Jul, 2025 में समीक्षा और अद्यतन किया गया |"
+  },
+  {
+    "source": "weather-reports",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "मौसम विज्ञान एवं समुद्र विज्ञानीय उपग्रह डेटा पुरालेखी केंद्र 3डी वॉल्यूमेट्रिक टर्ल्स डीडब्लूआर उत्पाद मुख पृष्ठ » डेटा अभिगम » ओपन डेटा » सागर » उच्च रिज़ॉल्यूशन समुद्री सतह लवणता बंगाल की खाड़ी की उच्च-रिज़ॉल्यूशन वाली समुद्र की सतह की लवणता को उपग्रह डेटा का लाभ उठाते हुए एक लैग्रैन्जियन तकनीक का उपयोग करके पुनर्निर्मित किया गया है. उपयोग किए जाने वाले प्राथमिक इनपुट डेटासेट स्मैप मिशन से समुद्र की सतह की लवणता डेटा और ऊंचाई से प्राप्त समुद्र की सतह की धाराएं हैं. ये डेटासेट 25 किमी के स्थानिक रिज़ॉल्यूशन पर प्राप्त किए जाते हैं. स्मैप मिशन 2015 से चालू है, जबकि ऊंचाई से प्राप्त समुद्र की सतह की धाराएं 1993 से उपलब्ध हैं. इस पुनर्निर्मित उत्पाद का सत्यापन थर्मो-सैलिनोग्राफ से प्राप्त इन-सीटू डेटासेट के खिलाफ किया गया था. परिणाम इंगित करते हैं कि पुनर्निर्मित उत्पाद मूल स्मैप लवणता क्षेत्रों की तुलना में सामने के गठन को अधिक सटीक रूप से पकड़ता है।"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "विज्ञान उत्पाद मोस्डेक पर एकल साइन ऑन के साथ डाउनलोड करने के लिए उपलब्ध हैं।यहाँ क्लिक करें डेटा तक पहुँचने के लिए स्मैप समुद्री सतह लवणता (https://podaac.jpl.nasa.gov/dataset/smap_jpl_l3_sss_cap_8day-runningmean_v5 ) ऊंचाई-व्युत्पन्न समुद्री सतह धाराएँ (https://data.marine.copernicus.eu/product/sealevel_glo_phy_l4_my_008_047 i. 5 कि. मी. के स्थानिक रिज़ॉल्यूशन के साथ समुद्र की सतह की धाराओं का पुनर्कल्पन करें."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "ii. अंतिम समय {t} rsub {f} से प्रारंभिक समय {t} rsub {f}-14 तक कणों का पीछे की ओर झुकाव, जहां 14 दिनों की संख्या है कि कणों को रुंग-कुट्टा चौथे क्रम विधि का उपयोग करके स्थानांतरित किया जाता है."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "iii. {t} rsub {f}-14 पर देखी गई स्मैप समुद्र की सतह की लवणता को उस दिन कण स्थितियों पर प्रक्षेपित किया जाता है."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "iv. इसके साथ, प्रत्येक कण का {t} rsub {f} दिन पर एक sss मान होता है जो {t} rsub {f}-14 पर अवलोकन के अनुरूप होता है। [1] बारबरा, बी., ड्रुष्का, के., और गौबे, पी. (2021), \"स्मैप ओबरवेशन से छोटे पैमाने पर लवणता परिवर्तनशीलता निकालने के लिए लैग्रैन्जियन पुनर्निर्माण\", जेजीआर महासागर, 126 (3), ई2020जेसी016477."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[2] डेन्कॉस, जी., कल, आर., रोग, एम., और फ्लूरी, एस. (2014). अल्टीमेट्री द्वारा बड़े पैमाने पर ट्रेसर क्षेत्रों की पार्श्व हलचल. महासागर गतिशीलता, 64 (1), 61-78। [3] डेस्प्रेस, ए., रिवर्डिन, जी., और डी 'विडीयो, एफ. (2011). उत्तर-पश्चिमी उपध्रुवीय जिरे में मेसोस्केल फ्रंटोजेनेसिस की तंत्र और स्थानिक परिवर्तनशीलता. महासागर मॉडलिंग, 39 (1), 97-113."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[4] ड्यूरैक, पी. जे., ली, टी., विनोग्राडोवा, एन. टी., और हकलाहट, डी. (2016). वैश्विक महासागर लवणता अवलोकन के लिए रोशनी को चालू रखना. प्रकृति जलवायु परिवर्तन, 6 (3), 228-231। [5] लेहान, वाई., डी 'विडीओ, एफ., और कोरेन, आई. (2018). फाइटोप्लांकटन गतिशीलता पर एक उपग्रह-आधारित लैग्रैन्जियन दृश्य. समुद्री विज्ञान की वार्षिक समीक्षा, 10 (1), 99-119."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "[6] रोगे, एम., कल, आर. ए., और डेन्कॉस, जी. (2015). प्रशांत महासागर के महीन पैमाने पर सतह ट्रेसर क्षेत्रों के पुनर्निर्माण के लिए अल्टीमेट्रिक लैग्रैन्जियन एडवेक्शन. महासागर गतिशीलता, 65 (9), 1249-1268। एल्गोरिथ्म को लैग्रैन्जियन पुनर्निर्माण तकनीक कहा जाता है. उपयोगकर्ता को [1] का उल्लेख करना चाहिए। यह एल्गोरिथ्म केवल मध्यम से उच्च एडी गतिज ऊर्जा वाले क्षेत्र में लागू होता है और जहां पार्श्व एडवेक्शन हावी होता है. लैग्रैन्जियन तकनीक द्वारा उत्पन्न उच्च रिज़ॉल्यूशन समुद्री सतह लवणता उत्पाद में ट्रेसर पूर्वाग्रह (प्रारंभिक स्थितियों की सटीकता पर निर्भर करता है) और एडवेक्शन पूर्वाग्रह (निष्क्रिय हलचल मिश्रण भौतिकी (वायु-समुद्र प्रवाह, मिश्रण आदि) के कारण पूर्वाग्रह पेश कर सकती है) के कारण त्रुटि हो सकती है।"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "डेटा सेट में पूर्वाग्रह के साथ-साथ अशुद्धि भी होती है।."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "नेटसीडीएफ फाइलः hrsss_bck_yyyymmdd_14d.nc एस. आर. नंबर\tमुख्य मेटाडेटा तत्व\tपरिभाषा 4\tडेटा वंशावली या गुणवत्ता\tलैग्रेन्जियन तकनीक का उपयोग करते हुए बंगाल की खाड़ी में उच्च रिज़ॉल्यूशन वाली समुद्री सतह लवणता।."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "5\tशीर्षक\tबंगाल की खाड़ी के लिए उपग्रह समुद्र की सतह की लवणता में गतिशील गिरावट 6\tअमूर्त\tलैग्रेन्जियन तकनीक का उपयोग बंगाल की खाड़ी में उच्च-रिज़ॉल्यूशन वाले समुद्री सतह लवणता क्षेत्रों को उत्पन्न करने के लिए किया जाता है. यह मिट्टी की नमी सक्रिय निष्क्रिय (स्मैप) उपग्रह से प्राप्त समुद्री सतह लवणता (एस. एस. एस.) डेटा के उपयोग के माध्यम से प्राप्त किया जाता है, समुद्र की सतह की धाराओं के संयोजन के साथ जो ऊंचाई से प्राप्त होते हैं. ऊंचाई से प्राप्त भूस्थैतिक धाराओं का उपयोग करके स्मैप एस. एस. एस. क्षेत्रों के संख्यात्मक विकास के लिए आगे और पीछे की योजनाओं को नियोजित करके, एक लैग्रेन्जियन पुनर्निर्माण का उत्पादन किया जाता है, जो छोटे पैमाने की विशेषताओं को पकड़ता है. हमारे घर में विकसित एल्गोरिदम की विश्वसनीयता का मूल्यांकन खाड़ी की धारा में उपलब्ध पुनर्निर्मित उत्पाद के साथ तुलना करके किया जाता है. इसके अलावा, थर्मो-सैलिनोग्राफ से प्राप्त इंसिटू डेटा के खिलाफ एक प्रारंभिक सत्यापन किया जाता है. आगे, विकसित एल्गोरिदम को गतिशील रूप से समय का चयन करने के लिए संशोधित किया गया था।"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "10\tस्थानिक संकल्प\tस्थानिक संकल्प 10 कि. मी. है। 12\tविषय श्रेणी\tउपग्रह डेटा का उपयोग करते हुए उच्च रिज़ॉल्यूशन समुद्री सतह लवणता उत्पाद (एस. ए. सी.-टी. डी. पी.)। 13\tमुख्य शब्द\tसमुद्र की सतह की लवणता, समुद्र की सतह की धाराएँ, लैग्रैन्जियन एडवेक्शन तकनीक, उच्च रिज़ॉल्यूशन 15\tजिम्मेदार पार्टी\tजय कुमार, पॉड/एओजी/एप्सा, अंतरिक्ष अनुप्रयोग केंद्र (आईएसआरओ), अहमदाबाद-380015, भारत 16\tसंगठन\tअंतरिक्ष अनुप्रयोग केंद्र (आई. एस. आर. ओ.), अहमदाबाद, भारत 16a\tओ. आर. जी.. भूमिका\tबंगाल की खाड़ी क्षेत्र में उपग्रह डेटा से भूभौतिकीय मापदंड."
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "16c\tस्थिति\tवैज्ञानिक/इंजीनियर, पॉड/ए. ओ. एस. जी./ई. पी. एस. ए., एस. ए. सी. (आई. एस. आर. ओ.), अहमदाबाद-380015 16d\tऊर्ध्वाधर सीमा (न्यूनतम मूल्य, अधिकतम मूल्य, एकक माप, ऊर्ध्वाधर डेटम)\tलैट _ मिनः 0एन, लैट _ मैक्सः 25एन, लोन _ मिनः 78ई, लोन _ मैक्सः 100ई 18\tभौगोलिक नाम, भौगोलिक पहचानकर्ता\tबंगाल की खाड़ी 19\tबाउंडिंग बॉक्स\tलैट _ मिनः 0एन, लैट _ मैक्सः 25एन, लोन _ मिनः 78ई, लोन _ मैक्सः 100ई 22\tवितरण की जानकारी\tनेटसीडीएफ प्रारूप में डेटा फाइलों का ऑनलाइन डाउनलोड मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित वेबसाइट"
+  },
+  {
+    "source": "high-resolution-sea-surface-salinity",
+    "text": "\"संस्करण 3.0; अंतिम बार 06 Jul, 2025 में समीक्षा और अद्यतन किया गया |"
+  },
+  {
+    "source": "internal-forecast-menu",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Nowcast Current Events Alerts Met Applications Ocean Applications COLD WAVE PREDICTION OVER INDIA (WRF MODEL) SAT. BASED CYCLONE OBSER. AND REALTIME PRED. OVER IO."
+  },
+  {
+    "source": "node",
+    "text": "HEAT WAVE PREDICTION OVER INDIA (WRF MODEL) HEAVY RAIN (>5MM/HR) FORECAST USING NWP MODEL."
+  },
+  {
+    "source": "node",
+    "text": "SEA STATE FORECAST IN TERMS OF WAVE HEIGHT, WAVE PERIOD ETC."
+  },
+  {
+    "source": "node",
+    "text": "3 DAYS SOLAR AND WIND FORECAST FOR EVERY 15 MINUTES Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "oceansat-2",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-catalog-radar",
+    "text": "Acq Calendar\tProduct Description\tProcessing Level\tTemporal Resolution\tStart Date\tEnd Date\tProcessing Status\tDOI DWR Data for Cheerapunji\tL2B\t10 MINUTES\t2016-05-20\t2022-11-05\tActive Ver 3.0; Last reviewed and updated on 22 Aug, 2024"
+  },
+  {
+    "source": "sitemap",
+    "text": "मौसम विज्ञान एवं समुद्र विज्ञानीय उपग्रह डेटा पुरालेखी केंद्र 3डी वॉल्यूमेट्रिक टर्ल्स डीडब्लूआर उत्पाद 3डी वॉल्यूमेट्रिक टर्ल्स डीडब्लूआर उत्पाद मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित वेबसाइट \"संस्करण 3.0; अंतिम बार 06 Jul, 2025 में समीक्षा और अद्यतन किया गया |"
+  },
+  {
+    "source": "tags-land",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "internal-calval-data",
+    "text": "मॉस्डैक सिंगल-साइन-ऑन (एसएसओ) MOSDAC Single-Sign-On (SSO) मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित"
+  },
+  {
+    "source": "node-543-7",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "atlases",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
+  },
+  {
+    "source": "node",
+    "text": "Meteorological & Oceanographic Satellite Data Archival Centre Satellite Images RADAR Weather OceanState LIVE Current Events Alerts Met Applications Ocean Applications CLOUD BURST NOWCAST FOR 6 HOURS OVER WESTERN HIMALAYAN REGION."
+  },
+  {
+    "source": "node",
+    "text": "SATELLITE BASED NOWCAST FOR HEAVY RAIN EVENTS FOR 6 HOURS."
+  },
+  {
+    "source": "node",
+    "text": "Monsoon Onset Prediction over Kerala (2024) | PDF, Tool: PDFViewer, Size: 763.84 KB | 20-May-24 Onset over Kerala - Monsoon 2023 | PDF, Tool: PDFViewer, Size: 463.15 KB | 15-May-23 INSAT Product Version Information | PDF, Tool: PDFViewer, Size: 1.61 MB | 01-Sep-22 SFTP Services for Data Download | PDF, Tool: PDFViewer, Size: 347.33 KB | 08-Nov-21 \"Ver 3.0; Last reviewed and updated on 06 Jul, 2025& Served By: Web-Srv-Pri"
   }
 ]

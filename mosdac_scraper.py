@@ -1,40 +1,122 @@
+import os
+import re
 import json
+import requests
+from urllib.parse import urljoin, urlparse
 from playwright.sync_api import sync_playwright
 
+BASE_URL = "https://www.mosdac.gov.in"
+OUTPUT_JSON = "mosdac_data.json"
+PDF_DIR = "pdfs"
+MAX_PAGES = 100  # Change this to increase/decrease page depth
+
+os.makedirs(PDF_DIR, exist_ok=True)
+
 def is_junk(text):
-    junk_phrases = [
-        "©", "ISRO", "Govt. of INDIA", "Maintained by", "Best viewed",
-        "Ver 3.0", "Last reviewed", "Served By:"
-    ]
-    return any(j.lower() in text.lower() for j in junk_phrases) or len(text.strip()) < 40
+    return (
+        len(text.strip()) < 40 or
+        re.match(r'^\W*$', text.strip()) or
+        any(j in text.lower() for j in [
+            "govt. of india", "best viewed", "isro", "privacy policy", "copyright"
+        ])
+    )
 
-def clean_and_chunk(text):
-    lines = text.split("\n")
-    cleaned = [' '.join(line.strip().split()) for line in lines]
-    return [line for line in cleaned if line and not is_junk(line)]
+def group_paragraphs(lines, max_len=500):
+    chunks = []
+    buffer = ""
+    for line in lines:
+        line = line.strip()
+        if not line or is_junk(line):
+            continue
+        buffer += " " + line
+        if len(buffer) >= max_len or line.endswith(('.', ':', ';')):
+            chunks.append(buffer.strip())
+            buffer = ""
+    if buffer:
+        chunks.append(buffer.strip())
+    return chunks
 
-def scrape_page_raw_text(url, label):
+def download_pdf(pdf_url):
+    try:
+        filename = os.path.basename(urlparse(pdf_url).path)
+        filepath = os.path.join(PDF_DIR, filename)
+        if not os.path.exists(filepath):
+            print(f"⬇️ Downloading PDF: {filename}")
+            r = requests.get(pdf_url, timeout=15)
+            with open(filepath, "wb") as f:
+                f.write(r.content)
+    except Exception as e:
+        print(f"⚠️ Failed to download PDF: {pdf_url} — {e}")
+
+def get_internal_links_and_pdfs(page):
+    internal_links = set()
+    pdf_links = set()
+    anchors = page.locator("a").all()
+    for a in anchors:
+        try:
+            href = a.get_attribute("href")
+            if not href:
+                continue
+            href = href.strip()
+            full_url = urljoin(BASE_URL, href.split("#")[0])
+            if href.endswith(".pdf"):
+                pdf_links.add(full_url)
+            elif BASE_URL in full_url or href.startswith("/"):
+                if "login" not in full_url and "dataaccess" not in full_url:
+                    internal_links.add(full_url)
+        except:
+            continue
+    return internal_links, pdf_links
+
+def scrape_all_mosdac():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(url, timeout=60000)
-        page.wait_for_load_state("networkidle")
-        full_text = page.locator("body").inner_text()
+        visited = set()
+        to_visit = {BASE_URL}
+        all_chunks = []
+
+        while to_visit:
+            url = to_visit.pop()
+            if url in visited or len(visited) >= MAX_PAGES:
+                continue
+
+            print(f"🌐 Visiting: {url}")
+            try:
+                page.goto(url, timeout=15000)
+                page.wait_for_load_state("domcontentloaded", timeout=10000)
+            except:
+                print(f"⏳ Skipping slow page: {url}")
+                continue
+
+            visited.add(url)
+
+            try:
+                text = page.locator("body").inner_text()
+                lines = text.splitlines()
+                chunks = group_paragraphs(lines)
+                slug = urlparse(url).path.strip("/").replace("/", "-") or "home"
+                for chunk in chunks:
+                    all_chunks.append({
+                        "source": slug,
+                        "text": chunk
+                    })
+
+                new_links, pdf_links = get_internal_links_and_pdfs(page)
+                to_visit.update(new_links - visited)
+
+                for pdf_url in pdf_links:
+                    download_pdf(pdf_url)
+
+            except Exception as e:
+                print(f"⚠️ Error scraping {url}: {e}")
+                continue
+
         browser.close()
+        with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+            json.dump(all_chunks, f, indent=2, ensure_ascii=False)
 
-        chunks = clean_and_chunk(full_text)
-        return [{"source": label, "text": chunk} for chunk in chunks]
-
-def run_scraper():
-    faq_data = scrape_page_raw_text("https://www.mosdac.gov.in/faq-page#n1276", "faq")
-    sat_data = scrape_page_raw_text("https://www.mosdac.gov.in/catalog/satellite.php", "satellite-series")
-
-    all_data = faq_data + sat_data
-
-    with open("mosdac_data.json", "w", encoding="utf-8") as f:
-        json.dump(all_data, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Scraped and saved {len(all_data)} clean text chunks to mosdac_data.json")
+        print(f"\n✅ Done! {len(visited)} pages visited, {len(all_chunks)} chunks saved.")
 
 if __name__ == "__main__":
-    run_scraper()
+    scrape_all_mosdac()

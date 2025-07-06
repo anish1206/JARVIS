@@ -1,76 +1,81 @@
 from flask import Flask, render_template, request, jsonify
+from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
-import pickle
-from sentence_transformers import SentenceTransformer
+import json
+import requests
+import os
+
+# Optional: Suppress TF logs if present
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 app = Flask(__name__)
 
-# === Load Sentence Transformer Model and FAISS Index ===
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# === Load Data & FAISS Index ===
+with open("mosdac_metadata.json", "r", encoding="utf-8") as f:
+    meta = json.load(f)
+texts = meta["texts"]
+sources = meta["sources"]
+
+model = SentenceTransformer("BAAI/bge-base-en-v1.5")
 index = faiss.read_index("mosdac_index.faiss")
 
-with open("mosdac_metadata.pkl", "rb") as f:
-    metadata = pickle.load(f)
+# === Greeting keywords ===
+greetings = {"hi", "hello", "hey", "namaste", "good morning", "good evening"}
 
+# === Use Ollama to generate smart RAG answers ===
+def generate_rag_response(user_input, top_chunks):
+    context = "\n\n".join(top_chunks)
+
+    prompt = f"""
+You are a helpful assistant for the MOSDAC satellite data platform by ISRO. Use the following context to answer the user's question clearly and completely.
+
+Context:
+{context}
+
+User Question:
+{user_input}
+
+Answer:
+""".strip()
+
+    response = requests.post("http://localhost:11434/api/generate", json={
+        "model": "tinyllama",  # or mistral, phi, etc.
+        "prompt": prompt,
+        "stream": False
+    })
+
+    result = response.json()
+    return result.get("response", "Sorry, I couldn’t generate a response.")
+
+# === Flask Routes ===
 @app.route("/")
 def home():
     return render_template("index.html")
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    user_input = request.json.get("message", "").strip()
-    if not user_input:
-        return jsonify({"response": "Please enter a valid question."})
+    user_input = request.get_json().get("message", "").strip().lower()
 
-    try:
-        # Step 1: Embed query
-        query_vec = model.encode([user_input])
+    # Greet directly
+    if user_input in greetings:
+        return jsonify({"response": "👋 Hello! I’m your MOSDAC Assistant. Ask me anything about satellites, rainfall, products, or data access."})
 
-        # Step 2: Search top 3 results
-        top_k = 3
-        distances, indices = index.search(np.array(query_vec), top_k)
+    # Encode query
+    query = model.encode([f"query: {user_input}"], normalize_embeddings=True)
+    distances, indices = index.search(np.array(query, dtype="float32"), k=3)
 
-        # Step 3: Define junk to skip
-        junk_phrases = [
-            "Website owned and maintained by",
-            "Ver 3.0; Last reviewed",
-            "Govt. of INDIA",
-            "Served By: Web-Srv-Pri"
-        ]
+    # Fetch top 3 chunks
+    top_chunks = [texts[i] for i in indices[0] if i < len(texts)]
 
-        # Step 4: Pick best non-junk, meaningful response
-        best_score = float("inf")
-        best_match = None
+    # Generate answer using RAG
+    if top_chunks:
+        answer = generate_rag_response(user_input, top_chunks)
+        return jsonify({"response": answer})
+    else:
+        return jsonify({"response": "❌ Sorry, I couldn't find relevant information for that."})
 
-        for dist, idx in zip(distances[0], indices[0]):
-            entry = metadata[idx]
-            text = entry.get("text", "")
-
-            if len(text) < 60:
-                continue
-
-            if any(junk.lower() in text.lower() for junk in junk_phrases):
-                continue
-
-            if dist < best_score:
-                best_score = dist
-                best_match = entry
-
-        # Step 5: Fallback if nothing good found
-        if not best_match:
-            best_match = metadata[indices[0][0]]
-
-        response = best_match["text"]
-
-        if "source" in best_match:
-            response += f"\n\n📎 Source: {best_match['source']}"
-
-        return jsonify({"response": response})
-
-    except Exception as e:
-        print("❌ Internal error:", e)
-        return jsonify({"response": "Sorry, an error occurred while processing your request."})
-
+# === Run Server ===
 if __name__ == "__main__":
     app.run(debug=True)
