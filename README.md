@@ -112,6 +112,11 @@ A smart AI-powered assistant designed to simplify user interaction with the [MOS
 * "What are the payloads of Megha-Tropiques?"
 * "Download rainfall info for Gujarat"
 ![Screenshot 2025-07-08 204236](https://github.com/user-attachments/assets/f89eecca-3575-45e0-9ae5-552357ded709)
+
+
+https://github.com/user-attachments/assets/ac32a4af-cd7b-4e78-b28e-7f0ef026f283
+
+(reply from the ai bot may not be clear or up-to-date as the project is still in prototype stage)
 ---
 
 ## 🔧 Setup Instructions
