@@ -22,7 +22,7 @@ A smart AI-powered assistant designed to simplify user interaction with the [MOS
 * Built with **Flask** and **custom HTML/CSS/JS UI**
 * Supports user input + bot responses
 * Displays thinking animation during long responses
-* 
+ 
 ![Screenshot 2025-07-08 203446](https://github.com/user-attachments/assets/cee67dd8-5c58-4ab1-9bee-0157be8506ba)
 
 
