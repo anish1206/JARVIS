@@ -136,7 +136,7 @@ pip install -r requirements.txt
 
 # 4. Run Flask app
 python app.py
-You'll see an URL (e.g. http://127.0.0.1:5000), run the URL on you local device.
+You will see an URL (e.g. http://127.0.0.1:5000), run the URL on you local device.
 ```
 
 Ensure `mosdac_data.json` and FAISS index (`mosdac_index.faiss`) are already built. If not, run the scraper:
