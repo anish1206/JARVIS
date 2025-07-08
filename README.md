@@ -1,67 +1,147 @@
-# 🌐 JARVIS: AI-Powered Help Bot for the MOSDAC Portal
+# J.A.R.V.I.S: GeoAssist Chatbot for MOSDAC
 
-## 🚀 Bharatiya Antariksh Hackathon 2025
+A smart AI-powered assistant designed to simplify user interaction with the [MOSDAC Portal](https://www.mosdac.gov.in) by enabling natural language queries about satellites, rainfall, cloud data, geospatial information, and more.
 
-### 👥 Team Stark Agents
+---
 
-- **Anish Kshirsagar** – NLP & Backend Integration
-- **Khush Jain** – Knowledge Graph, Document Search
-- **Prathamesh Kamble** – Geospatial Intelligence & Automation
+## 🚀 Project Overview
 
+**J.A.R.V.I.S (Just A Rather Very Intelligent System)** is a chatbot and data retrieval system that:
 
-
-## 📌 Problem Statement
-
-Create an **AI-based Help Bot** that retrieves information from a **Knowledge Graph** generated using static and dynamic content available on the **MOSDAC portal**. JARVIS will assist users in querying and exploring satellite data, documents, and insights easily.
+* Understands natural language queries
+* Retrieves relevant data or document snippets from the MOSDAC portal
+* Presents results in a clean, conversational format with optional sources or visuals
 
 
+---
 
-## 💡 Project Overview
+## 🔍 Features (Completed)
 
-JARVIS is a next-gen AI-powered assistant for the MOSDAC portal with:
+### ✅ 1. Fully Functional Chatbot Interface
 
-- **Natural language understanding**
-- **Document & data parsing**
-- **Geospatial insights**
-- **Knowledge graph visualization**
-- **Dual interaction interface** (chatbot + visual explorer)
-
-
-
-## 🧩 Features
-
-### 🔍 JARVIS Bot
-- Understands plain English queries like:
-  - “Show me rainfall data for Maharashtra in 2023”
-- Retrieves documents, FAQs, datasets, and maps
-- Displays responses with:
-  - Snippets, charts, maps, document previews
-
-### 🧠 Knowledge Graph
-- Built from document links, regions, satellites, and datasets
-- Visual explorer using D3.js / PyVis
-- Allows users to explore connections between content
-
-### 🗺️ Geo-Intelligent Answers
-- Map visualizations using Leaflet.js
-- Filters and extracts data using GeoPandas
-
-### 🔄 Dual Data Pipelines
-- Static: Weekly crawling of PDFs & FAQs
-- Live: Hourly fetch of weather/rainfall data from APIs
+* Built with **Flask** and **custom HTML/CSS/JS UI**
+* Supports user input + bot responses
+* Displays thinking animation during long responses
+* 
+![Screenshot 2025-07-08 203446](https://github.com/user-attachments/assets/cee67dd8-5c58-4ab1-9bee-0157be8506ba)
 
 
+### ✅ 2. NLP Engine
 
-## ⚙️ Technologies Used
+* Uses **SentenceTransformers** for vector embedding
+* Switchable backends: Ollama's **TinyLLaMA** or other open-source LLMs
+* Smart keyword matching, context understanding
 
-| Module                 | Tools & Libraries                              |
-|------------------------|-----------------------------------------------|
-| NLP & Chatbot          | spaCy, LangChain, NLTK, Sentence Transformers |
-| Document Parsing       | PyMuPDF, pdfminer.six, python-docx            |
-| Vector DB Retrieval    | FAISS, ChromaDB                                |
-| Knowledge Graph        | NetworkX, Neo4j, PyVis, D3.js                  |
-| Geospatial Processing  | GeoPandas, Leaflet.js, Shapely                |
-| Frontend (UI)          | Streamlit                                     |
-| Backend / APIs         | Flask, FastAPI                                |
-| Crawling / Automation  | BeautifulSoup, Requests, Selenium, Scrapy     |
-| Scheduling             | cron, APScheduler                             |
+### ✅ 3. Static Content Vector Store
+
+* **Scraper** crawls all internal MOSDAC links & PDFs
+* **PDF text + webpage text** cleaned and chunked
+* Stored in FAISS vector DB with source tagging
+
+### ✅ 4. Query Response Engine
+
+* Embeds user query, runs similarity search
+* Fetches best matching chunk from FAISS
+* Displays answer + source
+* Handles greeting ("Hi", "Hello") gracefully
+
+
+---
+
+## ⏳ Features (Planned/In Progress)
+
+### 🔹 Smart Live Data Fetching
+
+* Automatically retrieve weather/cloud/rainfall datasets from public APIs or NetCDF/CSV
+* Convert numerical data into natural language
+
+### 🔹 Knowledge Graph Integration
+
+* Build relationship graph between satellites, sensors, regions, documents using **NetworkX/Neo4j**
+* Visualize with PyVis or D3.js
+
+### 🔹 Geo-Intelligence Support
+
+* Support region-aware queries
+* Use **GeoPandas/Shapely** to filter datasets by region
+* Add optional **Leaflet.js** maps to responses
+
+### 🔹 Automated Update Pipelines
+
+* **Pipeline 1**: Weekly crawl of documentation, PDFs, FAQ
+* **Pipeline 2**: Hourly/daily live dataset polling
+* Use `APScheduler` or cron jobs
+
+---
+
+## 🚀 Tech Stack
+
+| Layer                     | Technologies Used                            |
+| ------------------------- | -------------------------------------------- |
+| Frontend                  | HTML, CSS, JS, Flask Templates               |
+| Backend / API             | Flask, Python                                |
+| NLP / Chat Engine         | Ollama (TinyLLaMA), SentenceTransformers     |
+| Vector DB                 | FAISS                                        |
+| Scraping / Extraction     | requests, BeautifulSoup, PyMuPDF, Playwright |
+| Geospatial (Planned)      | GeoPandas, Shapely, Leaflet.js               |
+| Knowledge Graph (Planned) | NetworkX, Neo4j                              |
+| Automation                | cron, APScheduler (planned)                  |
+
+---
+
+## 📅 Current Status
+
+| Module                   | Status    |
+| ------------------------ | --------- |
+| Chat UI + Response       | ✅ Done    |
+| Static Crawler + FAISS   | ✅ Done    |
+| PDF Extractor            | ✅ Done    |
+| Ollama LLM Integration   | ✅ Done    |
+| Smart Greeting/Typing UI | ✅ Done    |
+| Live Data Polling        | ⏳ Pending |
+| Knowledge Graph          | ⏳ Pending |
+| Geo Processing           | ⏳ Pending |
+| Feedback Learning        | ⏳ Pending |
+
+---
+
+## 📊 Example Queries
+
+* "Tell me about INSAT-3DR"
+* "Where can I get cloud data for July 2022?"
+* "What are the payloads of Megha-Tropiques?"
+* "Download rainfall info for Gujarat"
+![Screenshot 2025-07-08 204236](https://github.com/user-attachments/assets/f89eecca-3575-45e0-9ae5-552357ded709)
+---
+
+## 🔧 Setup Instructions
+
+```bash
+# 1. Clone the repo
+https://github.com/your-username/JARVIS-MOSDAC
+
+# 2. Create virtual environment
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run Flask app
+python app.py
+You'll see an URL (e.g. http://127.0.0.1:5000), run the URL on you local device.
+```
+
+Ensure `mosdac_data.json` and FAISS index (`mosdac_index.faiss`) are already built. If not, run the scraper:
+
+```bash
+python mosdac_scraper.py
+python build_vector_store.py
+```
+
+---
+
+
+## 💪 Team Credits
+
+Made with passion for **ISRO Hackathon 2025** by Team \Stark Agents.
