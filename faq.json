@@ -1,0 +1,26 @@
+[
+  {
+    "question": "what is insat-3d",
+    "answer": "INSAT-3D is an Indian geostationary satellite that provides meteorological observations including cloud cover, temperature, and humidity profiles."
+  },
+  {
+    "question": "how to download rainfall data",
+    "answer": "You can download rainfall data from the MOSDAC 'Data Download' section. Select 'Rainfall', then choose region and date."
+  },
+  {
+    "question": "which satellite provides cloud cover",
+    "answer": "INSAT-3D and Kalpana-1 provide frequent cloud cover information over India."
+  },
+  {
+    "question": "what is liss-3",
+    "answer": "LISS-3 is a sensor on IRS satellites with 23.5m spatial resolution used for vegetation and land-use mapping."
+  },
+  {
+    "question": "how to view data on mosdac",
+    "answer": "Use the Data Viewer tool on MOSDAC to browse satellite images and geospatial layers interactively."
+  },
+  {
+    "question": "which satellite gives ocean data",
+    "answer": "Oceansat-2 and SCATSAT-1 are satellites used to collect data related to ocean winds and sea surface temperature."
+  }
+]

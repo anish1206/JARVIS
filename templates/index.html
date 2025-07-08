@@ -1,128 +1,709 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <title>GeoAssist ✨</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background-color: #050505;
-      overflow-x: hidden;
-      font-family: 'Segoe UI', sans-serif;
-      color: white;
-      text-align: center;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J.A.R.V.I.S</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tektur:wght@400..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=send" />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-    .stars {
-      position: fixed;
-      top: 0; left: 0;
-      width: 100vw;
-      height: 100vh;
-      z-index: -1;
-    }
+        body {
+            font-family: "Poppins", sans-serif;
+            font-optical-sizing: auto;
+            background:
+                radial-gradient(circle at 20% 50%, rgba(0, 234, 255, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(188, 150, 255, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 40% 80%, rgba(0, 255, 127, 0.08) 0%, transparent 50%),
+                linear-gradient(135deg, #0a0a1a 0%, #000000 100%);
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            position: relative;
+        }
 
-    .star {
-      position: absolute;
-      width: 2px; height: 2px;
-      background: white;
-      border-radius: 50%;
-      opacity: 0.6;
-      animation: twinkle 3s infinite, move 20s linear infinite;
-    }
+        /* Static grid background */
+        .grid-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image:
+                linear-gradient(rgba(0, 234, 255, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 234, 255, 0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+            z-index: -1;
+        }
 
-    @keyframes twinkle {
-      0%, 100% { opacity: 0.2; }
-      50% { opacity: 1; }
-    }
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+        }
 
-    @keyframes move {
-      0% { transform: translateY(0); }
-      100% { transform: translateY(-100vh); }
-    }
+        .star {
+            position: absolute;
+            border-radius: 50%;
+            animation: twinkle 3s infinite, moveStars 30s linear infinite;
+            opacity: 0.6;
+        }
 
-    h1 {
-      margin-top: 50px;
-      z-index: 1;
-    }
+        .star:nth-child(4n) {
+            width: 3px;
+            height: 3px;
+            background: #ffffff;
+            box-shadow: 0 0 6px #ffffff;
+        }
 
-    #chat-box {
-      margin-top: 30px;
-    }
+        .star:nth-child(4n+1) {
+            width: 2px;
+            height: 2px;
+            background: #94efff;
+            box-shadow: 0 0 4px #94efff;
+        }
 
-    input[type="text"] {
-      padding: 12px 20px;
-      width: 300px;
-      border-radius: 8px;
-      border: none;
-      font-size: 16px;
-    }
+        .star:nth-child(4n+2) {
+            width: 1px;
+            height: 1px;
+            background: #bc96ff;
+            box-shadow: 0 0 3px #bc96ff;
+        }
 
-    button {
-      padding: 12px 24px;
-      margin-left: 10px;
-      background-color: #6a00ff;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 16px;
-      cursor: pointer;
-    }
+        .star:nth-child(4n+3) {
+            width: 2px;
+            height: 2px;
+            background: #00ff7f;
+            box-shadow: 0 0 4px #00ff7f;
+        }
 
-    button:hover {
-      background-color: #8f3bff;
-    }
+        @keyframes twinkle {
 
-    #response {
-      margin-top: 20px;
-      font-size: 1.2em;
-      color: #00ffe1;
-    }
-  </style>
+            0%,
+            100% {
+                opacity: 0.3;
+                transform: scale(0.8);
+            }
+
+            50% {
+                opacity: 1;
+                transform: scale(1.2);
+            }
+        }
+
+        @keyframes moveStars {
+            0% {
+                transform: translateY(100vh) rotate(0deg);
+            }
+
+            100% {
+                transform: translateY(-100vh) rotate(360deg);
+            }
+        }
+
+        /* Floating particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: rgba(0, 234, 255, 0.6);
+            border-radius: 50%;
+            animation: float 15s infinite linear;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(100vh) translateX(0px) rotate(0deg);
+                opacity: 0;
+            }
+
+            10% {
+                opacity: 1;
+            }
+
+            90% {
+                opacity: 1;
+            }
+
+            100% {
+                transform: translateY(-100vh) translateX(100px) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        /* Enhanced title with holographic effect */
+        .title-container {
+            position: relative;
+            margin-bottom: 30px;
+            z-index: 1;
+        }
+
+        h1 {
+            font-family: "Tektur", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 900;
+            font-size: 5vw;
+            background: linear-gradient(45deg, #00eaff, #bc96ff, #00ff7f, #00eaff);
+            background-size: 400% 400%;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+            letter-spacing: 0.1em;
+            animation: gradientShift 4s ease-in-out infinite, glow 2s ease-in-out infinite alternate;
+            margin: 0;
+            position: relative;
+        }
+
+        h1::before {
+            content: 'J.A.R.V.I.S';
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: linear-gradient(45deg, #00eaff, #bc96ff, #00ff7f, #00eaff);
+            background-size: 400% 400%;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: gradientShift 4s ease-in-out infinite reverse;
+            z-index: -1;
+            filter: blur(2px);
+            opacity: 0.5;
+        }
+
+        @keyframes gradientShift {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        @keyframes glow {
+            from {
+                filter: drop-shadow(0 0 20px rgba(0, 234, 255, 0.5));
+            }
+
+            to {
+                filter: drop-shadow(0 0 30px rgba(188, 150, 255, 0.7));
+            }
+        }
+
+        /* Enhanced chat container */
+        .chat-container {
+            position: relative;
+            width: 95%;
+            max-width: 900px;
+            z-index: 1;
+        }
+
+        #chat-box {
+            width: 100%;
+            max-height: 65vh;
+            background: rgba(10, 10, 30, 0.3);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(148, 239, 255, 0.2);
+            border-radius: 25px;
+            padding: 25px;
+            overflow-y: auto;
+            box-shadow:
+                0 0 40px rgba(0, 234, 255, 0.1),
+                inset 0 0 30px rgba(255, 255, 255, 0.05);
+            margin-bottom: 25px;
+            position: relative;
+        }
+
+        /* Hidden scrollbar */
+        #chat-box::-webkit-scrollbar {
+            width: 0;
+            background: transparent;
+        }
+
+        /* Enhanced message styling */
+        .message {
+            margin: 15px 0;
+            padding: 15px 20px;
+            border-radius: 20px;
+            max-width: 80%;
+            position: relative;
+            animation: messageSlide 0.6s ease-out;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .user-msg {
+            background: linear-gradient(135deg, rgba(0, 234, 255, 0.2), rgba(0, 234, 255, 0.1));
+            color: #94efff;
+            margin-left: auto;
+            text-align: right;
+            border-bottom-right-radius: 5px;
+            box-shadow: 0 4px 15px rgba(0, 234, 255, 0.2);
+        }
+
+        .user-msg::before {
+            content: '👤';
+            position: absolute;
+            right: -5px;
+            top: -5px;
+            background: rgba(0, 234, 255, 0.8);
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        .bot-msg {
+            background: linear-gradient(135deg, rgba(188, 150, 255, 0.2), rgba(188, 150, 255, 0.1));
+            color: #ffffff;
+            margin-right: auto;
+            text-align: left;
+            border-bottom-left-radius: 5px;
+            box-shadow: 0 4px 15px rgba(188, 150, 255, 0.2);
+        }
+
+        .bot-msg::before {
+            content: '🤖';
+            position: absolute;
+            left: -5px;
+            top: -5px;
+            background: rgba(188, 150, 255, 0.8);
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        @keyframes messageSlide {
+            from {
+                opacity: 0;
+                transform: translateY(20px) scale(0.9);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        /* Enhanced input area */
+        .input-area {
+            position: relative;
+            width: 100%;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        form {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            position: relative;
+        }
+
+        .input-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 18px 25px 18px 50px;
+            border: 2px solid rgba(148, 239, 255, 0.3);
+            border-radius: 30px;
+            font-size: 16px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            color: white;
+            outline: none;
+            transition: all 0.4s ease;
+            font-family: "Besley", serif;
+        }
+
+        input[type="text"]:focus {
+            border-color: #00eaff;
+            box-shadow:
+                0 0 25px rgba(0, 234, 255, 0.4),
+                inset 0 0 20px rgba(0, 234, 255, 0.1);
+            transform: scale(1.02);
+        }
+
+        input[type="text"]::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .input-icon {
+            position: absolute;
+            left: 18px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: rgba(148, 239, 255, 0.7);
+            font-size: 20px;
+        }
+
+        /* Enhanced button */
+        .send-button {
+            height: 60px;
+            width: 60px;
+            background: linear-gradient(135deg, #00eaff, #0099cc, #bc96ff);
+            background-size: 200% 200%;
+            border: none;
+            color: #000;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow:
+                0 6px 20px rgba(0, 234, 255, 0.3),
+                inset 0 0 20px rgba(255, 255, 255, 0.1);
+            animation: buttonPulse 3s ease-in-out infinite;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .send-button::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            transition: all 0.3s ease;
+        }
+
+        .send-button:hover::before {
+            width: 100%;
+            height: 100%;
+        }
+
+        .send-button:hover {
+            background-position: 100% 0;
+            transform: translateY(-3px) scale(1.05);
+            box-shadow:
+                0 10px 30px rgba(0, 234, 255, 0.4),
+                inset 0 0 20px rgba(255, 255, 255, 0.2);
+        }
+
+        .send-button:active {
+            transform: translateY(-1px) scale(0.98);
+        }
+
+        @keyframes buttonPulse {
+
+            0%,
+            100% {
+                box-shadow: 0 6px 20px rgba(0, 234, 255, 0.3), inset 0 0 20px rgba(255, 255, 255, 0.1);
+            }
+
+            50% {
+                box-shadow: 0 6px 25px rgba(188, 150, 255, 0.4), inset 0 0 25px rgba(255, 255, 255, 0.15);
+            }
+        }
+
+        /* Enhanced thinking animation */
+        .thinking-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .thinking-dots {
+            display: flex;
+            gap: 4px;
+        }
+
+        .thinking-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #00eaff, #bc96ff);
+            animation: thinkingBounce 1.4s infinite ease-in-out;
+        }
+
+        .thinking-dot:nth-child(1) {
+            animation-delay: -0.32s;
+        }
+
+        .thinking-dot:nth-child(2) {
+            animation-delay: -0.16s;
+        }
+
+        .thinking-dot:nth-child(3) {
+            animation-delay: 0s;
+        }
+
+        @keyframes thinkingBounce {
+
+            0%,
+            80%,
+            100% {
+                transform: scale(0.8);
+                opacity: 0.5;
+            }
+
+            40% {
+                transform: scale(1.2);
+                opacity: 1;
+            }
+        }
+
+        /* Status indicator - removed */
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 10vw;
+            }
+
+            #chat-box {
+                padding: 20px;
+                max-height: 55vh;
+            }
+
+            .message {
+                max-width: 90%;
+                padding: 12px 16px;
+            }
+
+            input[type="text"] {
+                padding: 15px 20px 15px 45px;
+                font-size: 14px;
+            }
+
+            .send-button {
+                height: 50px;
+                width: 50px;
+            }
+
+            .input-icon {
+                left: 15px;
+                font-size: 18px;
+            }
+        }
+
+        /* Loading states */
+        .loading {
+            opacity: 0.7;
+            pointer-events: none;
+        }
+
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-style: italic;
+            color: rgba(148, 239, 255, 0.8);
+        }
+    </style>
 </head>
+
 <body>
-  <div class="stars" id="stars"></div>
+    <div class="grid-background"></div>
+    <div class="stars" id="stars"></div>
+    <div class="particles" id="particles"></div>
 
-  <h1>JARVIS</h1>
+    <div class="title-container">
+        <h1>J.A.R.V.I.S</h1>
+    </div>
 
-  <div id="chat-box">
-    <input type="text" id="user-input" placeholder="Ask about satellite data..." />
-    <button onclick="sendMessage()">Ask</button>
-  </div>
+    <div class="chat-container">
+        <div id="chat-box"></div>
+        <div class="input-area">
+            <form>
+                <div class="input-wrapper">
+                    <span class="material-symbols-outlined input-icon">smart_toy</span>
+                    <input type="text" placeholder="Ask me anything..." required />
+                </div>
+                <button type="submit" class="send-button"><span class="material-symbols-outlined">
+                        send
+                    </span></button>
+            </form>
+        </div>
+    </div>
 
-  <div id="response"></div>
+    <script>
+        // === Enhanced Stars Background ===
+        function createStars() {
+            const starsContainer = document.getElementById('stars');
+            const numberOfStars = 150;
+            for (let i = 0; i < numberOfStars; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 100 + '%';
+                star.style.animationDelay = Math.random() * 20 + 's';
+                star.style.animationDuration = (Math.random() * 10 + 20) + 's';
+                starsContainer.appendChild(star);
+            }
+        }
 
-  <script>
-    // Star generator
-    const stars = document.getElementById('stars');
-    for (let i = 0; i < 120; i++) {
-      const star = document.createElement('div');
-      star.className = 'star';
-      star.style.left = Math.random() * 100 + '%';
-      star.style.top = Math.random() * 100 + '%';
-      star.style.animationDelay = Math.random() * 5 + 's';
-      stars.appendChild(star);
-    }
+        // === Floating Particles ===
+        function createParticles() {
+            const particlesContainer = document.getElementById('particles');
+            const numberOfParticles = 20;
+            for (let i = 0; i < numberOfParticles; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 15 + 's';
+                particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                particlesContainer.appendChild(particle);
+            }
+        }
 
-    // Send chat to backend
-    async function sendMessage() {
-      const input = document.getElementById("user-input");
-      const message = input.value;
-      if (!message) return;
+        // Initialize background effects
+        createStars();
+        createParticles();
 
-      document.getElementById("response").innerText = "Thinking...";
+        // === Enhanced Chat Logic ===
+        const form = document.querySelector("form");
+        const input = document.querySelector("input");
+        const chatBox = document.querySelector("#chat-box");
+        const sendButton = document.querySelector(".send-button");
 
-      const res = await fetch("/chat", {
-        method: "POST",
-        headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({message: message})
-      });
+        let messageCount = 0;
 
-      const data = await res.json();
-      document.getElementById("response").innerText = data.response;
-      input.value = "";
-    }
-  </script>
+        // Add welcome message
+        setTimeout(() => {
+            chatBox.innerHTML += `
+                <div class="message bot-msg">
+                    <div class="typing-indicator">
+                        <span>🤖</span>
+                        <span>Hello! I'm JARVIS, your AI assistant. How can I help you today?</span>
+                    </div>
+                </div>
+            `;
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }, 1000);
+
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const message = input.value.trim();
+            if (!message) return;
+
+            messageCount++;
+
+            // Add user message with enhanced styling
+            chatBox.innerHTML += `
+                <div class="message user-msg">
+                    <strong>You:</strong> ${message}
+                </div>
+            `;
+
+            // Create enhanced thinking indicator
+            const thinkingId = `thinking-${Date.now()}`;
+            chatBox.innerHTML += `
+                <div class="message bot-msg" id="${thinkingId}">
+                    <div class="thinking-container">
+                        <div class="thinking-dots">
+                            <div class="thinking-dot"></div>
+                            <div class="thinking-dot"></div>
+                            <div class="thinking-dot"></div>
+                        </div>
+                        <span>JARVIS is thinking...</span>
+                    </div>
+                </div>
+            `;
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+            input.value = "";
+
+            // Add loading state
+            form.classList.add('loading');
+            sendButton.style.opacity = '0.5';
+
+            await new Promise(resolve => setTimeout(resolve, 100));
+
+            try {
+                const res = await fetch("/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ message })
+                });
+                const data = await res.json();
+
+                // Replace thinking indicator with response
+                document.getElementById(thinkingId).innerHTML = `
+                    <strong>JARVIS:</strong> ${data.response}
+                `;
+            } catch (err) {
+                document.getElementById(thinkingId).innerHTML = `
+                    <span style="color: #ff6b6b;">
+                        ⚠️ Connection error. Please try again.
+                    </span>
+                `;
+            }
+
+            // Remove loading state
+            form.classList.remove('loading');
+            sendButton.style.opacity = '1';
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+
+        // Enhanced input interactions
+        input.addEventListener('focus', () => {
+            input.parentElement.style.transform = 'scale(1.02)';
+        });
+
+        input.addEventListener('blur', () => {
+            input.parentElement.style.transform = 'scale(1)';
+        });
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                input.blur();
+            }
+        });
+
+        // Auto-resize chat on window resize
+        window.addEventListener('resize', () => {
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+    </script>
 </body>
+
 </html>
